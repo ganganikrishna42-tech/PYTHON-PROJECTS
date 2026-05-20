@@ -8,7 +8,6 @@ while True:
     print("2. Analyze a number")
     print("3. Exit")
 
-
     option = int(input("\nEnter your choice (1, 2, or 3): "))
 
     if option == 1:
@@ -18,6 +17,7 @@ while True:
         print("1. Right Triangle")
         print("2. Left Triangle")
         print("3. Pyramid")
+        
 
         pattern_option = int(input("Enter your choice (1, 2, or 3): "))
         rows = int(input("Enter the number of rows for the pattern: "))

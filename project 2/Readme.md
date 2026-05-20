@@ -59,48 +59,24 @@ python project_2.py
 
 ### Right Triangle
 Example:
-```text
-*
-**
-***
-****
-```
+
+<img src="Righttriangle.png">
+
 
 ### Left Triangle
 Example:
-```text
-   *
-  **
- ***
-****
-```
+
+<img src=Lefttriangle.png">
 
 ### Pyramid
 Example:
-```text
-   *
-  ***
- *****
-*******
-```
+<img src="pyramid.png">
 
 ---
 
 ## Number Analyzer Example
 
-Input:
-```text
-Start: 1
-End: 5
-```
-
-Output:
-```text
-1 is an odd number.
-2 is an even number.
-3 is an odd number.
-4 is an even number.
-5 is an odd number.
+<img src="analyzer.png">
 ```
 
 ---

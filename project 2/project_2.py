@@ -50,7 +50,7 @@ while True:
         print("the sum of the numbers for this range is :",start/2*(start+end))
 
     elif option == 3:
-        print("\nThank you for using the Pattern Generator and Number Analyzer!")
+        print("\nThank you for using the Pattern Generator and Number Analyzer! Goodbye!")
         break
 
     else:

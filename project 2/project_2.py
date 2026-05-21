@@ -47,7 +47,7 @@ while True:
                 print(f"{n} is an even number.")
             else:
                 print(f"{n} is an odd number.")
-        print("the sum of the numbers for this range is :", (end - start + 1) * (start + end) / 2)
+        print("the sum of the numbers for this range is :", (end - start + 1) * (start + end) // 2)
 
     elif option == 3:
         print("\nThank you for using the Pattern Generator and Number Analyzer! Goodbye!")

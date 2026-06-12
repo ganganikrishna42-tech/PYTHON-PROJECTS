@@ -357,9 +357,9 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 > *"Every dataset has a story — write the code that tells it."*
 
-**🎓 Role:** Junior Python Developer | Programming Enthusiast \
+**🎓 Role:Programming Enthusiast 
 **📍 Location:** India\
-**🛠️ Skills:** Python · Data Analysis · CLI Applications · Recursion · Statistical Computing
+**🛠️ Skills:** Python · Data Analysis 
 
 </div>
 

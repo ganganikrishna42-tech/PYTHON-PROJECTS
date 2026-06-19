@@ -22,4 +22,4 @@ print("\nYour birth year is approximately:\n ",birth_year)
 
 print("Thank you! for using this Personal Data Collector for Gaming.\n See you in the next game.\n")
 
-
+int(input("Enter the number of credits you what to earn in the barn "))

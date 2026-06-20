@@ -139,10 +139,11 @@ The `JournalManager` class wraps all file-based journal operations behind a simp
 <img src="case1.png">
 
 **Sample Output:**
-``
-<img src="op1.png">
+```
+
 
 ```
+<img src="op1.png">
 
 ---
 
@@ -150,16 +151,16 @@ The `JournalManager` class wraps all file-based journal operations behind a simp
 
 > Reads the entire journal file and prints its contents, or a friendly message if it's empty.
 
-**Logic:**
-``
+**Logic:*
+
 <img src="case2.png">
-``
+
 
 **Sample Output:**
 ```
-<img src="op2.png">
 
 ```
+<img src="op2.png">
 
 ---
 
@@ -170,9 +171,12 @@ The `JournalManager` class wraps all file-based journal operations behind a simp
 > Splits the journal into individual entries and filters those containing a given keyword or date.
 
 **Logic:**
-``
+
+
+
+
 <img src="case3.png">
-```
+
 
 **Key Concepts Used:**
 
@@ -183,7 +187,7 @@ The `JournalManager` class wraps all file-based journal operations behind a simp
 | 📋 List Accumulation | Collects all matching entries before printing |
 
 **Sample Output (search = "loops"):**
-``
+```
 <img src="op3.png">
 ```
 

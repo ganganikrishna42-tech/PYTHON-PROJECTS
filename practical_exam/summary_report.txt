@@ -1,0 +1,44 @@
+============================================================
+        E-LIBRARY DATA INSIGHTS - SUMMARY REPORT
+============================================================
+Generated: 2026-07-18 07:47:13
+------------------------------------------------------------
+Total valid transactions : 1467
+Unique users             : 120
+Unique books             : 35
+
+Most borrowed book       : Rising: A Memoir (87 borrows)
+Most popular genre       : History
+Busiest day of the week  : Thursday
+
+Borrowing Duration Stats (days):
+   Average : 12.96
+   Median  : 12.00
+   Std Dev : 8.66
+   Min/Max : 1 / 60
+
+Late returns (>21 days)  : 121 (8.25% of transactions)
+
+Top 5 Most Borrowed Books:
+   - Rising: A Memoir: 87
+   - Crown of Thorned Vines: 76
+   - Detective Rao's Final Case: 71
+   - The Art of Deep Rest: 68
+   - A Century of Silence: 67
+
+Top 5 Frequent Borrowers:
+   - U0050: 23 transactions
+   - U0083: 21 transactions
+   - U0071: 19 transactions
+   - U0039: 18 transactions
+   - U0012: 18 transactions
+
+Average Borrowing Duration by Genre:
+   - Mystery: 13.8 days
+   - Biography: 13.6 days
+   - Fiction: 13.1 days
+   - History: 13.0 days
+   - Self-Help: 12.5 days
+   - Science Fiction: 12.4 days
+   - Fantasy: 12.1 days
+============================================================

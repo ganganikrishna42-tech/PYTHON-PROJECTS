@@ -1,0 +1,1523 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T00437,2025-05-14,U0001,A Century of Silence,History,7
+T00200,2025-10-26,U0117,Quantum Drift,Science Fiction,7
+T01489,2025-10-21,U0039,The Vanishing Hour,Mystery,13
+T00629,2025-03-31,U0095,The Art of Deep Rest,Self-Help,8
+T01370,2025-06-30,U0042,The Art of Deep Rest,Self-Help,2
+T00687,2025-01-29,U0012,Crown of Thorned Vines,Fantasy,13
+T01053,2025-11-17,U0098,Detective Rao's Final Case,Mystery,12
+T00702,2025-05-16,U0002,Detective Rao's Final Case,Mystery,3
+T01156,2025-04-14,U0092,The Long Road Home,Biography,13
+T00838,2025-03-05,U0076,Empires of Sand,History,8
+T00759,2025-12-13,U0039,Neon Horizon,Science Fiction,6
+T00569,2025-03-11,U0063,A Century of Silence,,-3
+T00008,2025-01-17,U0030,Habits That Stick,Self-Help,1
+T00858,2025-11-28,U0096,The Forgotten Treaty,History,12
+T00390,2025-02-25,U0109,An Ordinary Genius,Biography,19
+T00245,2025-11-16,U0036,The Cartographer's Daughter,Fiction,6
+T01479,2025-02-19,U0049,Rising: A Memoir,Biography,18
+T00581,2025-04-16,U0101,Notes from a Quiet Life,Biography,14
+T01088,2025-01-20,U0013,Life in the Margins,Biography,14
+T01417,2025-10-17,U0062,Detective Rao's Final Case,Mystery,10
+T00579,2025-05-02,U0104,Midnight in Avalon,Fiction,11
+T00600,2025-03-26,U0084,Rising: A Memoir,Biography,13
+T00627,2025-05-03,U0109,The Art of Deep Rest,Self-Help,15
+T00082,2025-03-07,U0071,The Discipline of Small Wins,Self-Help,7
+T01197,,U0110,Shadows on Elm Street,Mystery,19
+T00189,2025-02-21,U0057,The Forgotten Treaty,History,5
+T01336,2025-05-26,U0047,A Thousand Quiet Rooms,Fiction,23
+T00974,2025-10-03,U0033,An Ordinary Genius,Biography,14
+T00910,2025-05-15,U0026,Revolutions of the Mind,History,23
+T00969,2025-04-13,U0076,The Dragon's Ledger,Fantasy,11
+T00639,2025-12-02,U0092,Empires of Sand,History,11
+T00568,2025-01-28,U0080,Empires of Sand,History,15
+T01327,2025-05-26,U0076,The Discipline of Small Wins,Self-Help,15
+T00658,2025-08-27,U0058,Midnight in Avalon,Fiction,16
+T00864,2025-04-10,U0100,The Long Road Home,Biography,16
+T00623,2025-02-12,U0052,The Sorcerer's Apprentice,Fantasy,2
+T00764,2025-11-04,U0104,Revolutions of the Mind,History,20
+T00868,2025-06-15,U0119,Whispers of the Tide,Fiction,13
+T00079,2025-12-10,U0095,A Century of Silence,History,1
+T00560,2025-09-08,U0111,The Vanishing Hour,Mystery,17
+T00314,2025-05-09,U0112,The Long Road Home,Biography,15
+T00780,2025-09-08,U0021,Life in the Margins,Biography,22
+T01285,2025-12-03,U0077,A Thousand Quiet Rooms,Fiction,13
+T00187,2025-11-30,U0085,The Dragon's Ledger,Fantasy,14
+T00503,2025-11-23,U0008,Life in the Margins,Biography,
+T01019,2025-05-07,U0030,The Dragon's Ledger,Fantasy,19
+T00904,2025-06-06,U0085,Detective Rao's Final Case,Mystery,18
+T01106,2025-12-10,U0015,Life in the Margins,Biography,9
+T00845,2025-08-20,U0038,A Century of Silence,History,
+T00021,2025-09-29,U0100,An Ordinary Genius,Biography,6
+T01387,2025-03-20,U0102,Revolutions of the Mind,History,20
+T00556,2025-08-10,U0085,The Last Colony Ship,Science Fiction,11
+T00281,2025-03-17,U0083,A Century of Silence,History,14
+T00035,2025-07-26,U0008,Rising: A Memoir,Biography,14
+T00342,2025-09-12,U0024,The Dragon's Ledger,Fantasy,4
+T01492,2025-06-04,U0084,Habits That Stick,Self-Help,12
+T00375,2025-01-24,U0011,The Forgotten Treaty,History,11
+T00067,2025-04-01,U0021,Quantum Drift,Science Fiction,21
+T00263,2025-08-21,U0054,Neon Horizon,Science Fiction,5
+T01243,2025-11-17,U0051,The Discipline of Small Wins,Self-Help,8
+T00723,2025-09-25,U0050,A Thousand Quiet Rooms,Fiction,1
+T00065,2025-12-08,U0032,The Last Colony Ship,Science Fiction,14
+T01176,2025-05-21,U0089,Echoes of Andromeda,Science Fiction,8
+T01138,2025-11-07,U0035,Notes from a Quiet Life,Biography,21
+T01071,2025-02-10,U0063,The Last Colony Ship,Science Fiction,8
+T00870,2025-12-29,U0010,Life in the Margins,Biography,12
+T01056,2025-04-09,U0057,Empires of Sand,History,42
+T01024,2025-11-22,U0096,Crown of Thorned Vines,Fantasy,4
+T01018,2025-05-15,U0014,The Merchant Kingdoms,History,23
+T01086,2025-01-12,U0041,Neon Horizon,Science Fiction,22
+T00296,2025-12-14,U0072,Detective Rao's Final Case,Mystery,8
+T01260,2025-06-19,U0094,Crown of Thorned Vines,Fantasy,13
+T00863,2025-10-29,U0097,Rising: A Memoir,Biography,7
+T01458,2025-11-01,U0026,The Last Colony Ship,Science Fiction,8
+T01212,2025-05-26,U0103,A Century of Silence,History,14
+T00490,2025-10-07,U0018,Detective Rao's Final Case,Mystery,14
+T00078,2025-10-03,U0067,The Sorcerer's Apprentice,Fantasy,13
+T00691,2025-09-27,U0109,Habits That Stick,Self-Help,17
+T00480,2025-09-03,U0016,A Century of Silence,History,13
+T00135,2025-01-09,U0102,Crown of Thorned Vines,Fantasy,3
+T01033,2025-12-22,U0104,Revolutions of the Mind,History,22
+T00812,2025-02-23,U0021,A Century of Silence,History,10
+T00258,2025-11-15,U0072,The Sorcerer's Apprentice,Fantasy,16
+T00828,2025-11-06,U0012,The Silent Orchard,Fiction,3
+T00714,2025-03-20,U0063,Life in the Margins,Biography,14
+T00319,2025-05-01,U0048,Kingdom of Ash and Ember,Fantasy,15
+T01198,2025-09-12,U0012,The Vanishing Hour,Mystery,4
+T00703,2025-05-12,U0045,Atomic Focus,Self-Help,11
+T00301,2025-12-10,U0017,Detective Rao's Final Case,Mystery,31
+T00614,2025-12-04,U0109,The Silent Orchard,Fiction,25
+T01369,2025-10-25,U0097,The Art of Deep Rest,Self-Help,9
+T00608,2025-11-29,U0079,Life in the Margins,Biography,9
+T01183,2025-11-17,U0060,Midnight in Avalon,Fiction,15
+T00991,2025-06-27,U0065,An Ordinary Genius,Biography,10
+T01159,2025-09-26,U0011,Rising: A Memoir,Biography,9
+T00443,2025-07-11,U0078,Crown of Thorned Vines,Fantasy,10
+T00071,2025-06-29,U0059,Empires of Sand,History,13
+T01201,2025-03-20,U0065,Crown of Thorned Vines,Fantasy,12
+T00278,2025-07-22,U0011,Kingdom of Ash and Ember,Fantasy,15
+T01130,2025-08-18,U0043,Revolutions of the Mind,History,25
+T00261,2025-03-15,U0024,Detective Rao's Final Case,Mystery,9
+T00351,2025-07-07,U0083,Quantum Drift,Science Fiction,13
+T00360,2025-12-31,U0021,Case of the Broken Compass,Mystery,10
+T01113,2025-10-03,U0095,Detective Rao's Final Case,Mystery,2
+T01191,2025-06-21,U0115,The Forgotten Treaty,History,17
+T00223,2025-11-29,U0039,Revolutions of the Mind,History,16
+T00901,2025-02-04,U0086,The Cartographer's Daughter,Fiction,14
+T00747,2025-01-30,U0026,The Forgotten Treaty,History,6
+T00644,2025-05-30,U0026,The Silent Orchard,Fiction,9
+T00756,2025-11-04,U0023,Echoes of Andromeda,Science Fiction,12
+T00459,2025-08-26,U0039,The Art of Deep Rest,Self-Help,10
+T00081,2025-06-03,U0116,Echoes of Andromeda,Science Fiction,9
+T00765,2025-01-14,U0018,The Locked Library,Mystery,16
+T00138,2025-06-06,U0035,The Discipline of Small Wins,Self-Help,14
+T00649,2025-06-07,U0094,The Forgotten Treaty,History,12
+T01286,2025-11-23,U0077,Neon Horizon,Science Fiction,14
+T00473,2025-08-26,U0104,Rewire Your Mornings,Self-Help,1
+T01163,2025-08-17,U0094,Shadows on Elm Street,Mystery,17
+T00210,2025-12-04,U0099,The Art of Deep Rest,Self-Help,13
+T01244,2025-08-11,U0049,The Dragon's Ledger,Fantasy,8
+T00010,2025-07-22,U0064,Neon Horizon,Science Fiction,8
+T00468,2025-06-03,U0053,An Ordinary Genius,Biography,1
+T01308,2025-04-08,U0057,The Forgotten Treaty,History,15
+T00137,2025-10-09,U0055,An Ordinary Genius,Biography,8
+T00544,2025-12-13,U0083,A Thousand Quiet Rooms,Fiction,18
+T00462,2025-01-09,U0099,The Sorcerer's Apprentice,Fantasy,17
+T00720,2025-05-18,U0029,Crown of Thorned Vines,Fantasy,15
+T00053,2025-05-06,U0113,The Forgotten Treaty,History,25
+T00097,2025-08-17,U0071,Empires of Sand,History,5
+T01081,2025-07-10,U0109,The Merchant Kingdoms,History,4
+T01349,2025-09-25,U0053,Quantum Drift,Science Fiction,8
+T01331,2025-06-04,U0101,Rising: A Memoir,Biography,16
+T00722,2025-10-29,U0097,The Sorcerer's Apprentice,Fantasy,2
+T00182,2025-06-02,U0093,The Silent Orchard,Fiction,4
+T01372,2025-03-04,U0107,An Ordinary Genius,Biography,16
+T00058,2025-06-25,U0092,The Long Road Home,Biography,8
+T01344,2025-08-23,U0018,The Dragon's Ledger,Fantasy,1
+T00799,2025-05-15,U0100,Notes from a Quiet Life,Biography,17
+T00280,2025-06-28,U0025,An Ordinary Genius,Biography,15
+T00622,2025-09-17,U0051,A Century of Silence,History,9
+T00295,2025-11-03,U0087,Habits That Stick,Self-Help,8
+T00585,2025-01-31,U0053,The Art of Deep Rest,Self-Help,14
+T01373,2025-09-30,U0106,An Ordinary Genius,Biography,6
+T01107,2025-01-13,U0084,Detective Rao's Final Case,Mystery,14
+T01193,2025-10-02,U0072,Atomic Focus,Self-Help,48
+T00077,2025-07-17,U0015,The Merchant Kingdoms,History,12
+T00482,2025-10-01,U0060,Case of the Broken Compass,Mystery,17
+T00463,2025-01-18,U0077,The Cartographer's Daughter,Fiction,6
+T01041,2025-03-16,U0108,Detective Rao's Final Case,Mystery,14
+T00988,2025-10-22,U0113,Revolutions of the Mind,History,15
+T00367,2025-10-10,U0100,The Forgotten Treaty,History,7
+T00272,2025-09-14,U0030,An Ordinary Genius,Biography,13
+T01026,2025-08-15,U0012,Quantum Drift,Science Fiction,9
+T01153,2025-03-14,U0116,Atomic Focus,Self-Help,10
+T00897,2025-06-26,U0116,The Art of Deep Rest,Self-Help,21
+T00255,2025-11-04,U0037,The Art of Deep Rest,Self-Help,17
+T00941,2025-03-18,U0054,An Ordinary Genius,Biography,17
+T00051,2025-11-15,U0059,The Cartographer's Daughter,Fiction,21
+T01101,2025-01-26,U0096,Crown of Thorned Vines,Fantasy,16
+T00494,2025-04-22,U0002,The Discipline of Small Wins,Self-Help,6
+T00477,2025-01-21,U0078,Rising: A Memoir,Biography,15
+T00767,2025-04-08,U0105,The Merchant Kingdoms,History,9
+T01208,2025-06-14,U0027,Rising: A Memoir,Biography,10
+T01231,2025-11-02,U0076,Crown of Thorned Vines,Fantasy,8
+T00249,2025-06-23,U0053,The Forgotten Treaty,History,4
+T00439,2025-02-01,U0031,Detective Rao's Final Case,Mystery,13
+T00214,2025-05-20,U0065,The Dragon's Ledger,Fantasy,11
+T00692,2025-10-28,U0051,A Century of Silence,History,10
+T01366,2025-07-07,U0006,Crown of Thorned Vines,Fantasy,13
+T00713,2025-02-19,U0031,Case of the Broken Compass,Mystery,48
+T00075,2025-10-25,U0023,A Century of Silence,History,11
+T01462,2025-05-23,U0066,The Merchant Kingdoms,History,9
+T00256,2025-04-25,U0062,Echoes of Andromeda,Science Fiction,16
+T00861,2025-05-09,U0002,Life in the Margins,Biography,11
+T00661,2025-06-17,U0028,The Long Road Home,Biography,20
+T01084,2025-05-26,U0005,The Silent Orchard,Fiction,16
+T00697,2025-12-26,U0001,The Last Colony Ship,Science Fiction,1
+T00139,2025-12-20,U0069,Midnight in Avalon,Fiction,14
+T00602,2025-09-02,U0028,Midnight in Avalon,Fiction,13
+T01454,2025-07-08,U0087,Empires of Sand,History,18
+T00557,2025-07-19,U0055,Crown of Thorned Vines,Fantasy,36
+T01070,2025-01-07,U0010,The Long Road Home,Biography,17
+T00132,2025-06-24,U0034,Detective Rao's Final Case,Mystery,1
+T01288,2025-04-05,U0103,Rising: A Memoir,Biography,10
+T01248,2025-02-13,U0018,A Century of Silence,History,16
+T00706,2025-12-18,U0084,The Forgotten Treaty,History,16
+T00235,2025-11-02,U0101,Habits That Stick,Self-Help,57
+T00399,2025-06-03,U0095,The Merchant Kingdoms,History,4
+T00330,2025-10-11,U0065,An Ordinary Genius,Biography,57
+T01134,2025-03-02,U0069,The Cartographer's Daughter,Fiction,10
+T00605,2025-07-16,U0030,Crown of Thorned Vines,Fantasy,12
+T00956,2025-12-28,U0100,Life in the Margins,Biography,19
+T01300,2025-09-09,U0099,An Ordinary Genius,Biography,4
+T00224,2025-06-05,U0005,Echoes of Andromeda,Science Fiction,15
+T00444,2025-10-03,U0061,Life in the Margins,Biography,16
+T00538,2025-07-29,U0009,Empires of Sand,History,15
+T00851,2025-10-26,U0062,Detective Rao's Final Case,Mystery,8
+T00389,2025-12-11,U0084,The Forgotten Treaty,History,14
+T00260,2025-06-08,U0090,The Last Colony Ship,Science Fiction,7
+T00944,2025-12-14,U0100,Revolutions of the Mind,History,5
+T01468,2025-05-14,U0065,The Last Rune Keeper,Fantasy,14
+T00288,2025-02-16,U0083,Case of the Broken Compass,Mystery,13
+T00653,2025-09-16,U0013,Midnight in Avalon,Fiction,23
+T01008,2025-08-17,U0063,Rising: A Memoir,Biography,8
+T00875,2025-11-25,U0031,Detective Rao's Final Case,Mystery,1
+T00152,2025-04-17,U0098,Midnight in Avalon,Fiction,11
+T01456,2025-07-22,U0019,Midnight in Avalon,Fiction,9
+T01208,2025-06-14,U0027,Rising: A Memoir,Biography,10
+T00628,2025-03-01,U0056,Midnight in Avalon,Fiction,7
+T01232,2025-08-16,U0106,Life in the Margins,Biography,14
+T00409,2025-10-15,U0027,Echoes of Andromeda,Science Fiction,9
+T00275,2025-11-24,U0091,Life in the Margins,Biography,12
+T00438,2025-10-21,U0075,Detective Rao's Final Case,Mystery,50
+T00717,2025-07-23,U0101,Midnight in Avalon,Fiction,11
+T00831,2025-08-31,U0077,Habits That Stick,Self-Help,7
+T00942,2025-09-30,U0113,The Long Road Home,Biography,23
+T01335,2025-08-31,U0117,Atomic Focus,Self-Help,19
+T00359,2025-06-27,U0086,The Merchant Kingdoms,History,7
+T00915,2025-05-29,U0076,Revolutions of the Mind,History,9
+T01487,2025-08-12,U0047,Notes from a Quiet Life,Biography,1
+T00730,2025-10-12,U0050,The Cartographer's Daughter,Fiction,4
+T00500,2025-02-10,U0051,The Vanishing Hour,Mystery,5
+T00769,2025-12-03,U0022,Case of the Broken Compass,Mystery,13
+T00270,2025-03-12,U0099,A Century of Silence,History,10
+T00989,2025-09-19,U0098,Crown of Thorned Vines,Fantasy,13
+T00226,2025-10-04,U0090,A Century of Silence,History,11
+T00110,2025-07-21,U0117,An Ordinary Genius,Biography,10
+T00204,2025-07-16,U0026,Empires of Sand,History,16
+T00119,2025-02-25,U0040,Empires of Sand,History,9
+T00421,2025-12-09,U0007,Quantum Drift,Science Fiction,12
+T00402,2025-12-19,U0112,Revolutions of the Mind,History,14
+T00850,2025-12-30,U0042,Atomic Focus,Self-Help,10
+T00458,2025-09-28,U0051,The Merchant Kingdoms,History,23
+T00790,2025-04-19,U0017,The Art of Deep Rest,Self-Help,8
+T01412,2025-06-04,U0106,Whispers of the Tide,Fiction,9
+T00456,2025-07-13,U0112,The Dragon's Ledger,Fantasy,8
+T00284,2025-10-17,U0113,Atomic Focus,Self-Help,8
+T00548,2025-09-05,U0004,Echoes of Andromeda,Science Fiction,3
+T00106,2025-08-03,U0107,The Forgotten Treaty,History,10
+T00393,2025-11-16,U0036,The Art of Deep Rest,Self-Help,15
+T00159,2025-05-28,U0118,Empires of Sand,History,4
+T00398,2025-06-13,U0079,Detective Rao's Final Case,Mystery,7
+T00103,2025-08-04,U0107,A Thousand Quiet Rooms,Fiction,17
+T01152,2025-11-10,U0038,The Last Colony Ship,Science Fiction,7
+T00679,2025-08-30,U0008,Habits That Stick,Self-Help,14
+T01057,2025-05-09,U0018,Detective Rao's Final Case,Mystery,5
+T00014,2025-12-15,U0021,Echoes of Andromeda,Science Fiction,1
+T01257,2025-11-19,U0061,Midnight in Avalon,Fiction,14
+T00286,2025-05-21,U0102,Rising: A Memoir,Biography,14
+T00770,2025-10-14,U0034,Echoes of Andromeda,Science Fiction,14
+T01209,2025-03-02,U0086,Habits That Stick,Self-Help,19
+T01063,2025-11-14,U0047,Notes from a Quiet Life,Biography,10
+T00111,2025-08-25,U0111,The Sorcerer's Apprentice,Fantasy,9
+T00632,2025-05-18,U0100,Echoes of Andromeda,Science Fiction,-3
+T01219,2025-08-22,U0013,The Discipline of Small Wins,Self-Help,17
+T00834,2025-01-24,U0014,The Dragon's Ledger,Fantasy,1
+T00654,2025-10-31,U0010,Empires of Sand,History,1
+T01449,2025-02-26,U0060,The Locked Library,Mystery,17
+T01469,2025-01-17,U0098,The Silent Orchard,Fiction,5
+T00337,2025-04-13,U0102,The Last Colony Ship,Science Fiction,11
+T00631,2025-05-13,U0093,Habits That Stick,Self-Help,9
+T01228,2025-04-17,U0044,The Dragon's Ledger,Fantasy,3
+T00594,2025-10-17,U0017,Life in the Margins,Biography,16
+T00018,2025-05-15,U0001,Echoes of Andromeda,Science Fiction,16
+T00032,2025-10-20,U0120,Echoes of Andromeda,Science Fiction,12
+T00044,2025-01-30,U0041,A Thousand Quiet Rooms,Fiction,1
+T01040,2025-09-13,U0103,The Locked Library,Mystery,1
+T01028,2025-12-19,U0002,Crown of Thorned Vines,Fantasy,18
+T01017,2025-07-23,U0099,,Fiction,9
+T00225,2025-08-21,U0050,An Ordinary Genius,Biography,14
+T00792,2025-10-01,U0099,Rising: A Memoir,Biography,10
+T00672,2025-01-18,U0020,The Sorcerer's Apprentice,Fantasy,9
+T01383,2025-06-06,U0115,Life in the Margins,Biography,10
+T01151,2025-07-23,U0057,The Last Colony Ship,Science Fiction,12
+T01045,2025-02-18,U0059,The Silent Orchard,Fiction,15
+T01090,2025-07-24,U0074,Case of the Broken Compass,Mystery,12
+T00123,2025-01-22,U0101,The Merchant Kingdoms,History,10
+T00776,2025-04-13,U0018,The Forgotten Treaty,History,13
+T00056,2025-02-23,U0085,Case of the Broken Compass,Mystery,13
+T00701,2025-02-15,U0082,The Locked Library,Mystery,7
+T00474,2025-07-18,U0018,Life in the Margins,Biography,5
+T00719,2025-08-17,U0024,The Dragon's Ledger,Fantasy,44
+T00798,2025-02-24,U0015,Midnight in Avalon,Fiction,17
+T00777,2025-08-23,U0115,The Merchant Kingdoms,History,14
+T01371,2025-05-22,U0055,An Ordinary Genius,Biography,7
+T00015,2025-11-02,U0049,A Thousand Quiet Rooms,Fiction,1
+T00649,2025-06-07,U0094,The Forgotten Treaty,History,12
+T00973,2025-02-07,U0072,An Ordinary Genius,Biography,10
+T00160,2025-12-25,U0039,Crown of Thorned Vines,Fantasy,10
+T00888,2025-11-13,U0093,The Silent Orchard,Fiction,11
+T01328,2025-03-15,U0027,Atomic Focus,Self-Help,2
+T01377,2025-04-15,U0020,Echoes of Andromeda,Science Fiction,8
+T00908,2025-06-06,U0046,Crown of Thorned Vines,Fantasy,1
+T01049,2025-05-01,U0015,Neon Horizon,Science Fiction,4
+T01002,2025-10-18,U0072,Case of the Broken Compass,Mystery,33
+T00116,2025-01-11,U0026,A Century of Silence,History,12
+T00013,2025-09-18,U0018,Neon Horizon,Science Fiction,12
+T00641,2025-01-27,U0116,An Ordinary Genius,Biography,14
+T00615,2025-09-18,U0078,The Last Colony Ship,Science Fiction,5
+T01124,2025-06-04,U0081,Detective Rao's Final Case,Mystery,16
+T01419,2025-05-13,U0003,The Art of Deep Rest,Self-Help,6
+T00201,2025-08-27,U0002,Beyond the Event Horizon,Science Fiction,13
+T00577,2025-06-02,U0032,Rising: A Memoir,Biography,16
+T00162,2025-05-09,U0078,The Art of Deep Rest,Self-Help,37
+T00963,2025-12-31,U0037,Rising: A Memoir,Biography,9
+T00967,2025-12-02,U0031,The Silent Orchard,Fiction,35
+T00216,2025-08-28,U0015,Detective Rao's Final Case,Mystery,21
+T01253,2025-10-23,U0070,Kingdom of Ash and Ember,Fantasy,19
+T00953,2025-05-22,U0079,Life in the Margins,Biography,19
+T00115,2025-01-21,U0084,The Cartographer's Daughter,Fiction,10
+T00023,2025-02-10,U0073,Quantum Drift,Science Fiction,9
+T01303,2025-07-25,U0039,Detective Rao's Final Case,Mystery,7
+T01211,2025-06-13,U0071,An Ordinary Genius,Biography,10
+T01188,2025-03-31,U0004,Life in the Margins,Biography,17
+T01157,2025-12-21,U0042,Midnight in Avalon,Fiction,11
+T01354,2025-01-18,U0065,The Art of Deep Rest,Self-Help,3
+T00452,2025-04-22,U0096,Empires of Sand,History,17
+T00570,2025-12-17,U0053,Rising: A Memoir,Biography,17
+T00209,2025-11-14,U0025,Neon Horizon,Science Fiction,22
+T00446,2025-02-09,U0047,An Ordinary Genius,Biography,20
+T01271,2025-05-02,U0050,The Sorcerer's Apprentice,Fantasy,11
+T00027,2025-11-29,U0086,The Locked Library,Mystery,17
+T00911,2025-02-08,U0094,Rising: A Memoir,Biography,16
+T00618,2025-06-12,U0120,The Merchant Kingdoms,History,9
+T00992,2025-09-23,U0090,The Merchant Kingdoms,History,8
+T00859,2025-12-21,U0037,Habits That Stick,Self-Help,22
+T00785,2025-03-08,U0040,The Forgotten Treaty,History,6
+T00940,2025-09-25,U0026,Midnight in Avalon,Fiction,17
+T00882,2025-10-03,U0027,Empires of Sand,History,20
+T01112,2025-08-19,U0040,Empires of Sand,History,16
+T00768,2025-12-10,U0061,Rising: A Memoir,Biography,3
+T00141,2025-04-10,U0013,Case of the Broken Compass,Mystery,10
+T00982,2025-04-04,U0035,Revolutions of the Mind,History,12
+T00968,2025-07-24,U0036,Midnight in Avalon,Fiction,15
+T01108,2025-11-12,U0045,The Last Colony Ship,Science Fiction,14
+T00741,2025-02-20,U0088,The Forgotten Treaty,History,12
+T00339,2025-04-08,U0083,The Silent Orchard,Fiction,5
+T01076,2025-10-13,U0023,Rising: A Memoir,Biography,11
+T01168,2025-04-17,U0072,Notes from a Quiet Life,Biography,34
+T00656,2025-06-17,U0107,The Dragon's Ledger,Fantasy,11
+T00676,2025-07-03,U0049,The Silent Orchard,Fiction,11
+T01227,2025-03-23,U0071,Notes from a Quiet Life,Biography,15
+T00396,2025-01-24,U0006,Kingdom of Ash and Ember,Fantasy,52
+T00794,2025-03-05,U0049,The Sorcerer's Apprentice,Fantasy,10
+T01295,2025-11-26,U0079,The Sorcerer's Apprentice,Fantasy,16
+T01297,2025-08-17,U0033,Life in the Margins,Biography,45
+T01221,2025-07-06,U0034,Revolutions of the Mind,History,10
+T00283,2025-09-10,U0081,A Century of Silence,History,4
+T01025,2025-06-27,U0117,An Ordinary Genius,Biography,15
+T00362,2025-09-10,U0102,Echoes of Andromeda,Science Fiction,47
+T00507,2025-12-17,U0010,A Thousand Quiet Rooms,Fiction,18
+T00880,2025-10-03,U0022,A Century of Silence,History,18
+T00143,2025-12-24,U0038,A Thousand Quiet Rooms,Fiction,13
+T01466,2025-02-19,U0080,Case of the Broken Compass,Mystery,N/A
+T00611,2025-10-29,U0016,Echoes of Andromeda,Science Fiction,8
+T00327,2025-10-22,U0066,The Silent Orchard,Fiction,15
+T00810,2025-12-20,U0050,The Vanishing Hour,Mystery,20
+T00004,2025-07-09,U0021,Empires of Sand,History,16
+T01009,2025-03-27,U0019,Rising: A Memoir,Biography,15
+T00835,2025-02-24,U0053,The Art of Deep Rest,Self-Help,12
+T01190,2025-11-18,U0020,Echoes of Andromeda,Science Fiction,12
+T00981,2025-10-11,U0010,Empires of Sand,History,6
+T00378,2025-09-05,U0039,Rising: A Memoir,Biography,14
+T00985,2025-07-02,U0080,Beyond the Event Horizon,Science Fiction,22
+T01185,2025-04-19,U0082,Life in the Margins,Biography,36
+T00592,2025-10-01,U0009,Detective Rao's Final Case,Mystery,14
+T00120,2025-12-13,U0074,A Century of Silence,History,1
+T01119,2025-04-29,U0050,The Forgotten Treaty,History,4
+T00984,2025-04-28,U0027,The Forgotten Treaty,History,21
+T01177,2025-02-25,U0008,The Last Colony Ship,Science Fiction,14
+T00321,2025-05-27,U0005,Echoes of Andromeda,Science Fiction,1
+T00563,2025-11-11,U0039,The Discipline of Small Wins,Self-Help,9
+T01477,2025-01-24,U0076,A Thousand Quiet Rooms,Fiction,7
+T00383,2025-03-14,U0032,The Vanishing Hour,Mystery,18
+T00408,2025-08-30,U0079,An Ordinary Genius,Biography,11
+T00958,2025-04-20,U0013,A Century of Silence,History,14
+T00479,2025-06-05,U0043,The Forgotten Treaty,History,26
+T00447,2025-10-21,U0026,Revolutions of the Mind,History,19
+T01060,2025-03-24,U0071,Revolutions of the Mind,History,23
+T00762,2025-05-22,U0042,Case of the Broken Compass,Mystery,12
+T00630,2025-01-06,U0090,Rewire Your Mornings,Self-Help,18
+T01432,2025-08-15,U0105,Detective Rao's Final Case,Mystery,12
+T00099,2025-09-06,U0067,Habits That Stick,Self-Help,20
+T01214,2025-12-12,U0116,The Silent Orchard,Fiction,10
+T00237,2025-01-14,U0085,The Last Colony Ship,Science Fiction,5
+T01428,2025-04-24,U0065,Neon Horizon,Science Fiction,10
+T00416,2025-07-14,U0070,Life in the Margins,Biography,7
+T01379,2025-11-27,U0095,The Sorcerer's Apprentice,Fantasy,36
+T00609,2025-11-18,U0028,Detective Rao's Final Case,Mystery,19
+T00199,2025-07-15,U0079,The Last Colony Ship,Science Fiction,8
+T01318,2025-02-28,U0014,Empires of Sand,History,19
+T00308,2025-03-26,U0116,Rising: A Memoir,Biography,20
+T00193,2025-09-07,U0092,The Locked Library,Mystery,7
+T00181,2025-09-17,U0120,The Sorcerer's Apprentice,Fantasy,22
+T00712,2025-10-04,U0093,The Discipline of Small Wins,Self-Help,15
+T00797,2025-08-03,U0018,The Long Road Home,Biography,19
+T00228,2025-01-17,U0036,A Century of Silence,History,13
+T00344,2025-04-03,U0106,The Long Road Home,Biography,10
+T00016,2025-12-15,U0002,The Forgotten Treaty,History,9
+T00406,2025-04-08,U0015,A Century of Silence,History,40
+T00040,2025-07-25,U0028,Crown of Thorned Vines,Fantasy,12
+T00843,2025-06-14,U0078,Rising: A Memoir,Biography,1
+T00333,2025-10-25,U0099,Rising: A Memoir,Biography,20
+T00404,2025-09-03,U0075,The Art of Deep Rest,Self-Help,4
+T00664,2025-05-08,U0071,Life in the Margins,Biography,20
+T00685,2025-10-16,U0073,Detective Rao's Final Case,Mystery,22
+T00202,2025-02-07,U0021,Atomic Focus,Self-Help,7
+T01085,2025-06-04,U0114,An Ordinary Genius,Biography,37
+T00251,2025-08-31,U0088,A Century of Silence,History,13
+T00361,2025-07-05,U0023,The Discipline of Small Wins,Self-Help,14
+T00357,2025-03-04,U0026,The Merchant Kingdoms,History,15
+T00574,2025-02-28,U0074,An Ordinary Genius,Biography,5
+T00212,2025-03-09,U0047,The Silent Orchard,Fiction,9
+T01004,2025-02-19,U0081,Crown of Thorned Vines,Fantasy,9
+T01262,2025-10-16,U0094,The Art of Deep Rest,Self-Help,14
+T00005,2025-12-16,U0090,Rising: A Memoir,Biography,9
+T00740,2025-05-24,U0040,Habits That Stick,Self-Help,15
+T00244,2025-06-14,U0011,The Cartographer's Daughter,Fiction,12
+T00513,2025-04-29,U0056,A Thousand Quiet Rooms,Fiction,11
+T00002,2025-12-05,U0006,The Discipline of Small Wins,Self-Help,5
+T01036,2025-12-25,U0035,Notes from a Quiet Life,Biography,12
+T00069,2025-05-08,U0104,The Forgotten Treaty,History,12
+T00355,2025-10-15,U0050,The Last Rune Keeper,Fantasy,13
+T01356,2025-01-07,U0097,Midnight in Avalon,Fiction,8
+T00842,2025-03-07,U0105,The Last Colony Ship,Science Fiction,7
+T01051,2025-12-20,U0075,A Century of Silence,History,14
+T00236,2025-10-04,U0017,The Merchant Kingdoms,History,7
+T01441,2025-05-23,U0109,Midnight in Avalon,Fiction,17
+T00175,2025-03-23,U0091,Habits That Stick,Self-Help,13
+T01486,2025-12-08,U0098,An Ordinary Genius,Biography,7
+T00340,2025-12-02,U0007,The Forgotten Treaty,History,16
+T01440,2025-10-28,U0027,Revolutions of the Mind,History,14
+T01351,2025-05-07,U0032,The Art of Deep Rest,Self-Help,21
+T00232,2025-11-02,U0082,Neon Horizon,Science Fiction,17
+T01451,2025-05-26,U0050,The Last Rune Keeper,Fantasy,9
+T01092,2025-10-23,U0090,Revolutions of the Mind,History,19
+T00710,2025-12-01,U0056,The Discipline of Small Wins,Self-Help,10
+T00508,2025-06-11,U0119,The Silent Orchard,Fiction,36
+T01382,2025-12-23,U0086,Crown of Thorned Vines,Fantasy,5
+T01315,2025-08-30,U0003,Crown of Thorned Vines,Fantasy,8
+T01161,2025-06-21,U0022,Whispers of the Tide,Fiction,10
+T00411,2025-12-13,U0046,Detective Rao's Final Case,Mystery,23
+T00259,2025-11-08,U0004,Rising: A Memoir,Biography,14
+T00648,2025-01-05,U0113,Empires of Sand,History,20
+T00725,2025-01-18,U0116,The Cartographer's Daughter,Fiction,20
+T00222,2025-11-09,U0118,Life in the Margins,Biography,22
+T00729,2025-11-01,U0019,Empires of Sand,History,23
+T01240,2025-07-26,U0066,Notes from a Quiet Life,Biography,13
+T00372,2025-06-05,U0081,Case of the Broken Compass,Mystery,19
+T00977,2025-01-15,U0111,Revolutions of the Mind,History,11
+T00947,2025-12-23,U0117,Empires of Sand,History,7
+T00527,2025-07-04,U0010,Crown of Thorned Vines,Fantasy,14
+T01164,2025-11-15,U0001,A Century of Silence,History,23
+T01204,2025-08-24,U0005,The Last Colony Ship,Science Fiction,13
+T00638,2025-03-18,U0050,Crown of Thorned Vines,Fantasy,13
+T00154,2025-11-01,U0089,Kingdom of Ash and Ember,Fantasy,16
+T00036,2025-05-08,U0014,Habits That Stick,Self-Help,8
+T00289,2025-10-25,U0060,An Ordinary Genius,Biography,15
+T01142,2025-01-08,U0098,The Silent Orchard,Fiction,14
+T00752,2025-12-19,U0107,The Vanishing Hour,Mystery,13
+T01175,2025-02-03,U0071,The Sorcerer's Apprentice,Fantasy,13
+T00926,2025-06-26,U0046,An Ordinary Genius,Biography,21
+T01442,2025-09-14,U0021,Detective Rao's Final Case,Mystery,6
+T01131,2025-10-25,U0018,The Last Colony Ship,Science Fiction,15
+T01495,2025-09-22,U0091,The Silent Orchard,Fiction,8
+T00914,2025-07-07,U0020,Rising: A Memoir,Biography,7
+T00934,2025-11-03,U0052,An Ordinary Genius,Biography,23
+T01448,2025-04-20,U0055,The Merchant Kingdoms,History,3
+T01317,2025-02-19,U0106,Revolutions of the Mind,History,15
+T01099,2025-11-01,U0097,A Century of Silence,History,1
+T00195,2025-02-20,U0056,The Art of Deep Rest,Self-Help,2
+T00936,2025-09-04,U0061,The Long Road Home,Biography,10
+T01203,2025-12-13,U0067,Midnight in Avalon,Fiction,21
+T00514,2025-11-11,U0099,Detective Rao's Final Case,Mystery,3
+T00734,2025-02-21,U0100,Midnight in Avalon,Fiction,11
+T00140,2025-05-22,U0062,Neon Horizon,Science Fiction,19
+T01258,2025-10-24,U0103,Rising: A Memoir,Biography,11
+T00624,2025-05-23,U0020,An Ordinary Genius,Biography,23
+T00478,2025-04-22,U0072,The Art of Deep Rest,Self-Help,21
+T00856,2025-10-05,U0097,Case of the Broken Compass,Mystery,56
+T00489,2025-11-25,U0063,The Art of Deep Rest,Self-Help,2
+T00086,2025-08-31,U0066,Atomic Focus,Self-Help,17
+T01282,2025-12-11,U0002,The Locked Library,Mystery,32
+T00149,2025-11-13,U0102,The Long Road Home,Biography,18
+T01066,2025-12-04,U0067,Midnight in Avalon,Fiction,19
+T00572,2025-05-21,U0005,Neon Horizon,Science Fiction,7
+T01279,2025-06-21,U0035,Rising: A Memoir,Biography,13
+T01447,2025-04-03,U0014,Rising: A Memoir,Biography,8
+T00001,2025-11-18,U0107,Life in the Margins,Biography,17
+T01360,2025-04-05,U0052,The Forgotten Treaty,History,7
+T00232,2025-11-02,U0082,Neon Horizon,Science Fiction,17
+T00787,2025-11-02,U0067,Crown of Thorned Vines,Fantasy,3
+T00678,2025-01-16,U0029,The Locked Library,Mystery,14
+T01302,2025-09-04,U0089,The Dragon's Ledger,Fantasy,1
+T00217,2025-12-12,U0093,The Forgotten Treaty,History,24
+T00593,2025-04-19,U0106,A Century of Silence,History,9
+T00531,2025-03-11,U0077,Rising: A Memoir,Biography,16
+T01299,2025-07-20,U0116,The Discipline of Small Wins,Self-Help,7
+T00727,2025-03-27,U0023,The Art of Deep Rest,Self-Help,13
+T01264,2025-05-27,U0004,The Art of Deep Rest,Self-Help,7
+T01097,2025-10-04,U0041,An Ordinary Genius,Biography,10
+T01368,2025-02-28,U0070,Detective Rao's Final Case,Mystery,8
+T00073,2025-05-23,U0099,The Forgotten Treaty,History,2
+T01293,2025-09-09,U0009,The Last Colony Ship,Science Fiction,22
+T00401,2025-12-11,U0043,The Silent Orchard,Fiction,7
+T01340,2025-12-13,U0026,Detective Rao's Final Case,Mystery,12
+T01098,2025-04-24,U0090,Detective Rao's Final Case,Mystery,2
+T01115,2025-10-26,U0049,Rising: A Memoir,Biography,7
+T00693,2025-03-22,U0018,Case of the Broken Compass,Mystery,4
+T01439,2025-02-19,U0097,Rising: A Memoir,Biography,5
+T00229,2025-02-20,U0047,Quantum Drift,Science Fiction,18
+T00779,2025-01-03,U0008,The Locked Library,Mystery,14
+T01241,2025-01-01,U0007,Revolutions of the Mind,History,10
+T00129,2025-02-14,U0107,The Forgotten Treaty,History,7
+T00253,2025-10-15,U0076,Life in the Margins,Biography,9
+T01012,2025-05-17,U0091,Rising: A Memoir,Biography,2
+T00946,2025-07-15,U0099,Crown of Thorned Vines,Fantasy,18
+T00635,2025-03-27,U0073,An Ordinary Genius,Biography,13
+T01364,2025-06-21,U0113,Midnight in Avalon,Fiction,1
+T00613,2025-11-04,U0077,Quantum Drift,Science Fiction,8
+T00030,2025-02-04,U0030,Rising: A Memoir,Biography,13
+T01316,2025-03-30,U0002,Rising: A Memoir,Biography,8
+T00068,2025-07-30,U0120,Detective Rao's Final Case,Mystery,13
+T01389,2025-12-07,U0005,Life in the Margins,Biography,15
+T01030,2025-07-11,U0071,Habits That Stick,Self-Help,16
+T00326,2025-09-13,U0108,A Thousand Quiet Rooms,Fiction,5
+T00840,2025-10-11,U0007,An Ordinary Genius,Biography,17
+T00276,2025-11-13,U0103,The Locked Library,Mystery,12
+T00565,2025-08-03,U0050,Echoes of Andromeda,Science Fiction,6
+T00395,2025-04-12,U0019,The Dragon's Ledger,Fantasy,11
+T00931,2025-10-30,U0027,Crown of Thorned Vines,Fantasy,12
+T00521,2025-08-18,U0056,Midnight in Avalon,Fiction,9
+T01249,2025-11-06,U0090,Revolutions of the Mind,History,1
+T01391,2025-09-13,U0052,Revolutions of the Mind,History,16
+T00246,2025-05-31,U0068,The Merchant Kingdoms,History,10
+T00208,2025-05-27,U0116,Empires of Sand,History,13
+T01245,2025-07-04,U0050,The Last Colony Ship,Science Fiction,6
+T01035,2025-02-26,U0038,The Last Colony Ship,Science Fiction,18
+T00385,2025-10-23,U0120,Empires of Sand,History,8
+T01005,2025-05-12,U0120,Life in the Margins,Biography,16
+T00332,2025-07-02,U0003,Beyond the Event Horizon,Science Fiction,6
+T00423,2025-10-09,U0001,Habits That Stick,Self-Help,16
+T00704,2025-03-27,U0054,The Sorcerer's Apprentice,Fantasy,10
+T00328,2025-10-20,U0031,Notes from a Quiet Life,Biography,16
+T00564,2025-04-04,U0015,Quantum Drift,Science Fiction,7
+T01128,2025-12-14,U0067,The Art of Deep Rest,Self-Help,14
+T00749,2025-03-05,U0082,An Ordinary Genius,Biography,23
+T00832,2025-02-28,U0058,The Dragon's Ledger,,11
+T01109,2025-04-30,U0119,The Sorcerer's Apprentice,Fantasy,4
+T00186,2025-01-23,U0053,The Forgotten Treaty,History,1
+T01100,2025-05-29,U0056,Midnight in Avalon,Fiction,15
+T00061,2025-03-24,U0034,Echoes of Andromeda,Science Fiction,5
+T00174,2025-12-24,U0113,Case of the Broken Compass,Mystery,20
+T01265,2025-05-23,U0010,Echoes of Andromeda,Science Fiction,8
+T01237,2025-12-15,U0027,The Sorcerer's Apprentice,Fantasy,20
+T01276,2025-08-18,U0103,Case of the Broken Compass,Mystery,10
+T00945,2025-01-23,U0048,An Ordinary Genius,Biography,1
+T01158,2025-02-28,U0012,The Art of Deep Rest,Self-Help,8
+T01184,2025-11-12,U0027,The Art of Deep Rest,Self-Help,7
+T00688,2025-11-11,U0118,The Silent Orchard,Fiction,19
+T00293,2025-12-29,U0032,The Last Colony Ship,Science Fiction,5
+T01429,2025-11-11,U0072,Habits That Stick,Self-Help,23
+T00696,2025-12-19,U0040,The Last Colony Ship,Science Fiction,19
+T00906,2025-04-24,U0101,The Locked Library,Mystery,11
+T00118,2025-11-07,U0022,Habits That Stick,Self-Help,11
+T01339,2025-08-16,U0031,The Cartographer's Daughter,Fiction,13
+T00264,2025-11-02,U0073,Habits That Stick,Self-Help,18
+T00392,2025-07-05,U0025,Life in the Margins,Biography,18
+T00325,2025-01-25,U0016,Quantum Drift,Science Fiction,6
+T01073,2025-11-12,U0008,Habits That Stick,Self-Help,14
+T00025,2025-03-26,U0071,Crown of Thorned Vines,Fantasy,16
+T00878,2025-09-21,U0048,Empires of Sand,History,24
+T00588,2025-08-20,U0049,Rising: A Memoir,,18
+T00448,2025-09-24,U0110,The Last Colony Ship,Science Fiction,7
+T00775,2025-12-15,U0112,An Ordinary Genius,Biography,11
+T01145,2025-05-07,U0059,The Locked Library,Mystery,13
+T01054,2025-12-26,U0020,Detective Rao's Final Case,Mystery,17
+T01199,2025-06-04,U0068,Case of the Broken Compass,Mystery,20
+T00824,2025-07-13,U0083,Quantum Drift,Science Fiction,11
+T01478,2025-10-26,U0104,The Dragon's Ledger,Fantasy,58
+T00738,2025-05-02,U0089,The Forgotten Treaty,History,45
+T00793,2025-01-11,U0108,Midnight in Avalon,Fiction,33
+T00455,2025-07-11,U0054,The Art of Deep Rest,Self-Help,18
+T00949,2025-05-12,U0053,The Forgotten Treaty,History,9
+T01425,2025-07-05,U0089,Atomic Focus,Self-Help,7
+T00282,2025-12-02,U0098,The Long Road Home,Biography,15
+T00598,2025-11-29,U0113,Revolutions of the Mind,History,20
+T01182,2025-11-09,U0114,Empires of Sand,History,11
+T00545,2025-08-09,U0043,A Century of Silence,History,15
+T00802,2025-10-21,U0107,Revolutions of the Mind,History,12
+T00020,2025-07-11,U0020,Notes from a Quiet Life,Biography,20
+T00515,2025-08-19,U0035,The Silent Orchard,Fiction,18
+T00709,2025-02-17,U0115,The Cartographer's Daughter,Fiction,24
+T01143,2025-12-10,U0029,A Century of Silence,History,12
+T01476,2025-11-12,U0049,The Long Road Home,Biography,12
+T01202,2025-09-26,U0094,A Century of Silence,History,7
+T01091,2025-03-30,U0062,The Locked Library,Mystery,14
+T00591,2025-02-17,U0100,The Silent Orchard,Fiction,3
+T00555,2025-07-27,U0103,Crown of Thorned Vines,Fantasy,17
+T01473,2025-02-26,U0098,The Dragon's Ledger,Fantasy,14
+T00883,2025-08-11,U0095,The Forgotten Treaty,History,21
+T01246,2025-12-10,U0112,Echoes of Andromeda,Science Fiction,20
+T01401,2025-11-06,U0078,Crown of Thorned Vines,Fantasy,11
+T00575,2025-10-05,U0047,An Ordinary Genius,Biography,21
+T00317,2025-08-12,U0019,Revolutions of the Mind,History,21
+T01225,2025-02-24,U0105,Midnight in Avalon,Fiction,10
+T00026,2025-12-20,U0070,The Last Colony Ship,Science Fiction,7
+T00170,2025-03-01,U0042,The Locked Library,Mystery,6
+T01310,2025-09-13,U0040,An Ordinary Genius,Biography,15
+T00285,2025-11-18,U0042,The Merchant Kingdoms,History,5
+T01178,2025-02-14,U0068,The Merchant Kingdoms,History,6
+T00047,2025-10-24,U0032,Revolutions of the Mind,History,15
+T01384,2025-07-10,U0062,The Vanishing Hour,Mystery,12
+T00745,2025-03-23,U0066,,History,10
+T00823,2025-06-14,U0063,The Cartographer's Daughter,Fiction,13
+T01396,2025-03-13,U0006,Crown of Thorned Vines,Fantasy,12
+T00397,2025-09-23,U0061,Detective Rao's Final Case,Mystery,6
+T00937,2025-03-15,U0077,Empires of Sand,History,13
+T00092,2025-01-03,U0089,Echoes of Andromeda,Science Fiction,19
+T01205,2025-12-18,U0006,The Locked Library,Mystery,9
+T00153,2025-02-08,U0071,Quantum Drift,Science Fiction,14
+T00818,2025-06-23,U0086,Quantum Drift,Science Fiction,2
+T00461,2025-02-27,U0120,Case of the Broken Compass,Mystery,51
+T00472,2025-04-26,U0031,An Ordinary Genius,Biography,15
+T00517,2025-05-07,U0038,Habits That Stick,Self-Help,8
+T01181,2025-11-20,U0067,Life in the Margins,Biography,14
+T01474,2025-12-17,U0071,Crown of Thorned Vines,Fantasy,4
+T01104,2025-11-12,U0072,Life in the Margins,Biography,7
+T00487,2025-04-11,U0020,The Sorcerer's Apprentice,Fantasy,3
+T01140,2025-11-06,U0065,Crown of Thorned Vines,Fantasy,19
+T01043,2025-01-07,U0107,Empires of Sand,History,22
+T00464,2025-07-25,U0006,Quantum Drift,Science Fiction,1
+T00742,2025-06-14,U0100,The Art of Deep Rest,Self-Help,17
+T01170,2025-11-05,U0074,,Fiction,13
+T01105,2025-06-15,U0056,The Vanishing Hour,Mystery,11
+T00493,2025-11-19,U0108,Kingdom of Ash and Ember,Fantasy,10
+T00428,2025-07-23,U0108,The Silent Orchard,Fiction,1
+T00046,2025-02-04,U0077,The Last Colony Ship,Science Fiction,12
+T01488,2025-10-02,U0109,The Cartographer's Daughter,Fiction,1
+T00358,2025-12-16,U0012,Rewire Your Mornings,Self-Help,13
+T00561,2025-07-18,U0077,Rising: A Memoir,Biography,7
+T00954,2025-07-31,U0027,Kingdom of Ash and Ember,Fantasy,8
+T00003,2025-04-30,U0011,Case of the Broken Compass,Mystery,7
+T00501,2025-06-03,U0029,The Merchant Kingdoms,History,16
+T00188,2025-03-06,U0005,The Last Rune Keeper,Fantasy,1
+T01147,,U0074,A Century of Silence,History,6
+T01433,2025-06-25,U0098,The Long Road Home,Biography,8
+T00659,2025-06-07,U0058,Habits That Stick,Self-Help,15
+T00050,2025-11-27,U0086,The Dragon's Ledger,Fantasy,7
+T01031,2025-11-27,U0092,Beyond the Event Horizon,Science Fiction,7
+T01067,2025-04-02,U0017,Empires of Sand,History,14
+T00146,2025-09-02,U0111,Beyond the Event Horizon,Science Fiction,18
+T00147,2025-01-28,U0088,Life in the Margins,Biography,14
+T00771,2025-06-21,U0088,The Last Colony Ship,Science Fiction,12
+T00498,2025-04-02,U0056,The Discipline of Small Wins,Self-Help,14
+T00302,2025-11-27,U0012,Revolutions of the Mind,History,5
+T00990,2025-08-05,U0103,A Thousand Quiet Rooms,Fiction,19
+T01216,2025-12-25,U0089,Rising: A Memoir,Biography,8
+T01167,2025-11-04,U0011,Kingdom of Ash and Ember,Fantasy,12
+T00381,2025-06-26,U0111,The Locked Library,Mystery,21
+T00680,2025-05-07,U0013,A Century of Silence,History,1
+T01150,2025-11-19,U0067,Life in the Margins,Biography,17
+T00536,2025-12-16,U0024,The Merchant Kingdoms,History,21
+T00042,2025-10-12,U0094,Atomic Focus,Self-Help,8
+T00297,2025-12-03,U0110,Beyond the Event Horizon,Science Fiction,9
+T00586,2025-03-16,U0032,The Forgotten Treaty,History,9
+T00673,2025-06-01,U0083,Notes from a Quiet Life,Biography,17
+T01343,2025-11-09,U0119,Echoes of Andromeda,Science Fiction,13
+T00113,2025-08-04,U0107,Case of the Broken Compass,Mystery,22
+T00419,2025-04-14,U0028,The Art of Deep Rest,Self-Help,10
+T01083,2025-05-11,U0071,The Dragon's Ledger,Fantasy,1
+T00122,2025-06-04,U0090,Quantum Drift,Science Fiction,9
+T01137,2025-04-07,U0100,Case of the Broken Compass,Mystery,16
+T01481,2025-12-19,U0011,The Locked Library,Mystery,10
+T00975,2025-08-15,U0089,Life in the Margins,Biography,2
+T01136,2025-11-23,U0057,Kingdom of Ash and Ember,Fantasy,7
+T00439,2025-02-01,U0031,Detective Rao's Final Case,Mystery,13
+T00467,2025-06-14,U0105,Habits That Stick,Self-Help,24
+T01116,2025-12-23,U0026,A Thousand Quiet Rooms,Fiction,11
+T00920,2025-07-09,U0034,Quantum Drift,Science Fiction,14
+T00542,2025-10-02,U0115,Detective Rao's Final Case,Mystery,9
+T00526,2025-03-16,U0064,Case of the Broken Compass,,6
+T01001,2025-11-19,U0115,Echoes of Andromeda,Science Fiction,10
+T01272,2025-06-26,U0108,Life in the Margins,Biography,8
+T01069,2025-11-16,U0068,Rising: A Memoir,Biography,
+T01329,2025-05-03,U0053,An Ordinary Genius,Biography,10
+T00763,2025-11-30,U0115,Rewire Your Mornings,Self-Help,18
+T00148,2025-02-13,U0039,Empires of Sand,History,19
+T01235,2025-11-22,U0116,The Forgotten Treaty,History,17
+T01022,2025-10-04,U0112,Crown of Thorned Vines,Fantasy,8
+T00502,2025-11-29,U0084,The Forgotten Treaty,History,16
+T00451,2025-01-12,U0040,Rising: A Memoir,Biography,8
+T00434,2025-04-09,U0087,Case of the Broken Compass,Mystery,12
+T00652,2025-07-31,U0067,Revolutions of the Mind,History,1
+T01460,2025-05-20,U0076,Habits That Stick,Self-Help,16
+T00599,2025-05-21,U0113,The Forgotten Treaty,History,10
+T01319,2025-02-02,U0029,Habits That Stick,Self-Help,2
+T00405,2025-07-14,U0080,Rising: A Memoir,Biography,11
+T01117,2025-01-05,U0084,A Thousand Quiet Rooms,Fiction,7
+T00573,2025-08-23,U0100,Case of the Broken Compass,Mystery,12
+T00603,2025-12-15,U0067,The Long Road Home,Biography,17
+T01068,2025-11-25,U0074,Midnight in Avalon,Fiction,18
+T00539,2025-08-05,U0020,Beyond the Event Horizon,Science Fiction,15
+T01438,2025-05-10,U0016,A Thousand Quiet Rooms,Fiction,39
+T00379,2025-01-31,U0089,Crown of Thorned Vines,Fantasy,6
+T00080,2025-06-10,U0080,Revolutions of the Mind,History,18
+T01341,2025-07-31,U0031,Quantum Drift,Science Fiction,14
+T00220,2025-07-15,U0075,Rising: A Memoir,Biography,14
+T00488,2025-12-17,U0084,,Fantasy,19
+T00134,2025-10-12,U0063,The Art of Deep Rest,Self-Help,8
+T01267,2025-03-19,U0095,Revolutions of the Mind,History,9
+T00064,2025-01-21,U0116,Shadows on Elm Street,Mystery,14
+T00095,2025-12-08,U0060,Echoes of Andromeda,Science Fiction,10
+T01277,2025-12-16,U0068,The Locked Library,Mystery,18
+T00422,2025-08-30,U0043,Midnight in Avalon,Fiction,16
+T00436,2025-03-13,U0024,Rising: A Memoir,Biography,11
+T00811,2025-03-27,U0084,Habits That Stick,Self-Help,11
+T00101,2025-04-29,U0020,Midnight in Avalon,Fiction,22
+T00466,2025-06-13,U0074,Revolutions of the Mind,History,11
+T00877,2025-05-12,U0050,A Century of Silence,History,9
+T00198,2025-09-29,U0032,The Sorcerer's Apprentice,Fantasy,10
+T00597,2025-01-01,U0059,Echoes of Andromeda,Science Fiction,1
+T00860,2025-08-02,U0050,A Century of Silence,History,17
+T00336,2025-02-02,U0018,The Last Colony Ship,Science Fiction,13
+T00923,2025-05-21,U0082,A Century of Silence,History,11
+T01268,2025-09-06,U0031,Habits That Stick,Self-Help,14
+T00784,2025-05-08,U0094,The Silent Orchard,Fiction,11
+T01290,2025-08-07,U0036,A Century of Silence,History,6
+T00144,2025-09-09,U0097,Rising: A Memoir,Biography,16
+T00689,2025-04-01,U0092,Echoes of Andromeda,Science Fiction,14
+T00748,2025-07-04,U0118,Crown of Thorned Vines,Fantasy,10
+T00683,2025-04-01,U0023,The Merchant Kingdoms,History,7
+T00292,2025-02-13,U0044,Revolutions of the Mind,History,13
+T00307,2025-07-12,U0077,Notes from a Quiet Life,Biography,15
+T00359,2025-06-27,U0086,The Merchant Kingdoms,History,7
+T01261,2025-05-31,U0103,A Century of Silence,History,25
+T01127,2025-03-19,U0029,A Century of Silence,History,9
+T00547,2025-07-20,U0048,Neon Horizon,Science Fiction,8
+T01345,2025-01-17,U0017,The Last Colony Ship,Science Fiction,1
+T00757,2025-06-06,U0078,Quantum Drift,Science Fiction,10
+T00732,2025-08-03,U0067,Rising: A Memoir,Biography,4
+T01220,2025-08-27,U0099,Rising: A Memoir,Biography,15
+T01446,2025-12-29,U0109,Revolutions of the Mind,History,10
+T00242,2025-01-16,U0083,Case of the Broken Compass,Mystery,7
+T01324,2025-01-21,U0075,Quantum Drift,Science Fiction,14
+T00465,2025-01-29,U0097,An Ordinary Genius,Biography,16
+T00006,2025-08-25,U0021,The Art of Deep Rest,Self-Help,9
+T00587,2025-12-13,U0098,Empires of Sand,History,17
+T01403,2025-05-26,U0002,The Dragon's Ledger,Fantasy,5
+T01171,2025-03-24,U0023,The Sorcerer's Apprentice,Fantasy,11
+T00128,2025-08-27,U0062,An Ordinary Genius,Biography,11
+T00667,2025-02-08,U0105,The Vanishing Hour,Mystery,32
+T01089,2025-04-30,U0032,Revolutions of the Mind,History,15
+T00127,2025-11-12,U0035,A Century of Silence,History,15
+T00363,2025-10-10,U0060,Life in the Margins,Biography,14
+T01367,2025-02-04,U0091,Rising: A Memoir,Biography,12
+T01126,2025-01-16,U0105,Revolutions of the Mind,History,3
+T00266,2025-08-06,U0085,Case of the Broken Compass,Mystery,7
+T01186,2025-02-04,U0033,Atomic Focus,Self-Help,14
+T00062,2025-12-20,U0010,The Silent Orchard,Fiction,9
+T00750,2025-11-01,U0063,Quantum Drift,Science Fiction,18
+T00935,2025-12-05,U0113,Rising: A Memoir,Biography,15
+T01061,2025-05-15,U0038,Echoes of Andromeda,Science Fiction,2
+T01120,2025-02-20,U0091,An Ordinary Genius,Biography,3
+T00521,2025-08-18,U0056,Midnight in Avalon,Fiction,9
+T00820,2025-07-17,U0083,Rising: A Memoir,Biography,5
+T00248,2025-04-21,U0111,Life in the Margins,Biography,1
+T01359,2025-08-26,U0059,Life in the Margins,Biography,13
+T00607,2025-03-10,U0112,Empires of Sand,History,11
+T00553,2025-03-26,U0087,Rising: A Memoir,Biography,12
+T00563,2025-11-11,U0039,The Discipline of Small Wins,Self-Help,9
+T00024,2025-03-06,U0099,The Art of Deep Rest,Self-Help,12
+T00164,2025-01-21,U0074,Empires of Sand,History,13
+T00651,2025-01-23,U0012,Rewire Your Mornings,Self-Help,19
+T01027,2025-03-11,U0067,The Silent Orchard,Fiction,13
+T01459,2025-05-23,U0064,The Sorcerer's Apprentice,Fantasy,14
+T00320,2025-11-29,U0013,The Locked Library,Mystery,14
+T00566,2025-12-22,U0069,Crown of Thorned Vines,Fantasy,9
+T01500,2025-02-02,U0111,Kingdom of Ash and Ember,Fantasy,1
+T00096,2025-08-15,U0041,Life in the Margins,Biography,10
+T00219,2025-07-08,U0059,An Ordinary Genius,Biography,11
+T01463,2025-11-18,U0030,Crown of Thorned Vines,Fantasy,12
+T00554,2025-03-31,U0067,The Art of Deep Rest,Self-Help,8
+T00972,2025-05-14,U0001,Kingdom of Ash and Ember,Fantasy,10
+T00130,2025-08-26,U0097,Crown of Thorned Vines,Fantasy,9
+T01365,2025-12-12,U0117,A Thousand Quiet Rooms,Fiction,17
+T00737,2025-11-08,U0080,Kingdom of Ash and Ember,Fantasy,7
+T00743,2025-02-15,U0083,The Sorcerer's Apprentice,Fantasy,14
+T00400,2025-06-03,U0073,Crown of Thorned Vines,Fantasy,11
+T01292,2025-06-20,U0050,A Thousand Quiet Rooms,Fiction,11
+T00551,2025-08-13,U0013,Detective Rao's Final Case,Mystery,9
+T01374,2025-02-03,U0089,Rising: A Memoir,Biography,13
+T00847,2025-12-31,U0041,Life in the Margins,Biography,8
+T00309,2025-12-13,U0047,Whispers of the Tide,Fiction,20
+T00203,2025-12-20,U0055,Rising: A Memoir,Biography,18
+T01187,2025-01-04,U0042,An Ordinary Genius,Biography,8
+T00415,2025-05-21,U0072,Crown of Thorned Vines,Fantasy,5
+T00665,2025-04-24,U0008,Midnight in Avalon,Fiction,18
+T00354,2025-01-14,U0015,Beyond the Event Horizon,Science Fiction,17
+T00715,2025-11-04,U0081,Empires of Sand,History,12
+T01074,2025-09-23,U0028,Shadows on Elm Street,Mystery,12
+T00668,2025-08-16,U0083,The Last Colony Ship,Science Fiction,5
+T01005,2025-05-12,U0120,Life in the Margins,Biography,16
+T00640,2025-06-13,U0054,The Locked Library,Mystery,17
+T00558,2025-12-27,U0097,The Last Colony Ship,Science Fiction,1
+T00951,,U0103,The Last Colony Ship,Science Fiction,1
+T00660,2025-03-22,U0012,The Forgotten Treaty,History,8
+T00457,2025-06-28,U0084,An Ordinary Genius,Biography,3
+T00414,2025-05-28,U0099,The Merchant Kingdoms,,9
+T01011,2025-04-27,U0044,The Cartographer's Daughter,Fiction,19
+T00151,2025-11-09,U0008,Life in the Margins,Biography,8
+T01125,2025-05-22,U0065,The Merchant Kingdoms,History,3
+T01301,2025-10-04,U0009,Empires of Sand,History,17
+T00287,2025-06-08,U0010,Detective Rao's Final Case,Mystery,17
+T01255,2025-09-27,U0019,Atomic Focus,Self-Help,22
+T00353,2025-03-12,U0074,The Art of Deep Rest,Self-Help,5
+T00322,2025-08-18,U0061,The Art of Deep Rest,Self-Help,13
+T00761,2025-06-02,U0037,The Long Road Home,Biography,6
+T01102,2025-09-14,U0052,The Vanishing Hour,Mystery,8
+T00312,2025-08-25,U0057,Life in the Margins,Biography,20
+T00567,2025-10-12,U0023,A Century of Silence,History,11
+T00718,2025-02-16,U0034,Revolutions of the Mind,History,7
+T00698,2025-04-04,U0005,A Century of Silence,History,24
+T00927,2025-01-04,U0078,Crown of Thorned Vines,Fantasy,14
+T00430,2025-05-26,U0043,Midnight in Avalon,Fiction,12
+T00303,2025-07-05,U0003,An Ordinary Genius,Biography,17
+T01283,2025-09-26,U0013,The Silent Orchard,Fiction,1
+T00836,2025-07-21,U0016,The Last Colony Ship,Science Fiction,13
+T01362,2025-09-29,U0043,Revolutions of the Mind,History,43
+T01275,2025-08-31,U0050,Atomic Focus,Self-Help,5
+T01047,2025-10-09,U0006,Rising: A Memoir,Biography,16
+T01236,2025-03-18,U0085,The Art of Deep Rest,Self-Help,9
+T00589,2025-02-17,U0099,Habits That Stick,Self-Help,11
+T01082,2025-10-16,U0031,The Locked Library,Mystery,3
+T00657,2025-10-27,U0100,The Last Colony Ship,Science Fiction,14
+T00677,2025-10-17,U0045,Habits That Stick,Self-Help,9
+T00038,2025-10-09,U0104,The Cartographer's Daughter,Fiction,7
+T00778,2025-11-20,U0043,Midnight in Avalon,Fiction,9
+T00403,2025-12-02,U0034,The Long Road Home,Biography,13
+T00063,2025-07-09,U0107,Life in the Margins,Biography,13
+T00445,2025-02-11,U0077,Atomic Focus,Self-Help,2
+T01450,2025-12-27,U0047,The Last Rune Keeper,Fantasy,11
+T00791,2025-01-20,U0084,The Dragon's Ledger,Fantasy,10
+T00412,2025-12-21,U0083,The Art of Deep Rest,Self-Help,1
+T00323,2025-05-12,U0003,Revolutions of the Mind,History,20
+T00347,2025-05-21,U0056,Detective Rao's Final Case,Mystery,15
+T00087,2025-03-28,U0095,A Century of Silence,History,10
+T00505,2025-02-18,U0110,Detective Rao's Final Case,Mystery,15
+T00530,2025-06-18,U0111,The Dragon's Ledger,Fantasy,1
+T00826,2025-09-12,U0016,The Sorcerer's Apprentice,Fantasy,15
+T00735,2025-06-26,U0113,The Forgotten Treaty,History,11
+T01338,2025-04-01,U0069,A Thousand Quiet Rooms,Fiction,19
+T00955,2025-05-10,U0062,Life in the Margins,Biography,10
+T01350,2025-08-31,U0076,The Merchant Kingdoms,History,10
+T00454,2025-07-29,U0037,Crown of Thorned Vines,Fantasy,17
+T00031,2025-09-06,U0086,Quantum Drift,Science Fiction,10
+T00917,2025-12-17,U0079,A Century of Silence,History,5
+T00699,2025-04-24,U0079,Revolutions of the Mind,History,17
+T00814,2025-12-17,U0004,Detective Rao's Final Case,Mystery,17
+T00529,2025-06-20,U0051,Shadows on Elm Street,Mystery,14
+T00470,2025-12-10,U0083,A Century of Silence,History,15
+T00420,2025-11-12,U0014,The Vanishing Hour,Mystery,19
+T01381,2025-11-27,U0084,Life in the Margins,Biography,11
+T00440,2025-07-27,U0021,Crown of Thorned Vines,Fantasy,23
+T01434,2025-12-22,U0017,Midnight in Avalon,Fiction,21
+T00900,2025-08-25,U0071,The Art of Deep Rest,Self-Help,11
+T01135,2025-01-16,U0019,Empires of Sand,History,16
+T00807,2025-01-05,U0006,The Art of Deep Rest,Self-Help,10
+T00432,2025-02-27,U0104,Case of the Broken Compass,Mystery,17
+T01123,2025-09-08,U0043,An Ordinary Genius,Biography,15
+T00872,2025-06-28,U0012,An Ordinary Genius,Biography,13
+T00772,2025-06-19,U0054,The Forgotten Treaty,History,16
+T00156,2025-11-17,U0034,Quantum Drift,Science Fiction,13
+T00891,2025-01-16,U0085,The Dragon's Ledger,Fantasy,5
+T00681,2025-01-29,U0105,The Vanishing Hour,Mystery,19
+T00645,2025-09-10,U0076,Crown of Thorned Vines,Fantasy,19
+T01252,2025-12-31,U0031,Empires of Sand,History,6
+T00425,2025-06-14,U0037,The Art of Deep Rest,Self-Help,21
+T01467,2025-04-14,U0060,Crown of Thorned Vines,Fantasy,5
+T00733,2025-10-29,U0073,Echoes of Andromeda,Science Fiction,14
+T01179,2025-08-07,U0037,The Merchant Kingdoms,History,1
+T01358,2025-06-06,U0086,The Silent Orchard,Fiction,4
+T00088,2025-05-01,U0012,Notes from a Quiet Life,Biography,20
+T01361,2025-11-18,U0111,Rising: A Memoir,Biography,16
+T00518,2025-07-14,U0020,Midnight in Avalon,Fiction,5
+T00294,2025-05-25,U0048,Echoes of Andromeda,Science Fiction,14
+T00350,2025-08-13,U0101,The Long Road Home,Biography,32
+T00486,2025-10-27,U0120,The Vanishing Hour,Mystery,15
+T00829,2025-12-10,U0084,Life in the Margins,Biography,2
+T01044,2025-07-17,U0032,Habits That Stick,Self-Help,2
+T00252,2025-07-10,U0095,Midnight in Avalon,Fiction,9
+T01457,2025-02-03,U0022,A Century of Silence,History,10
+T01038,2025-03-06,U0035,Midnight in Avalon,Fiction,11
+T01281,2025-04-10,U0076,The Art of Deep Rest,Self-Help,3
+T00993,2025-12-12,U0002,Atomic Focus,Self-Help,7
+T01029,2025-05-30,U0056,The Silent Orchard,Fiction,9
+T00207,2025-11-07,U0007,The Art of Deep Rest,Self-Help,8
+T00869,2025-09-09,U0039,Empires of Sand,History,3
+T00126,2025-08-24,U0107,Rising: A Memoir,Biography,3
+T00142,2025-01-08,U0039,Detective Rao's Final Case,Mystery,13
+T00839,2025-10-29,U0085,Crown of Thorned Vines,Fantasy,16
+T00343,2025-08-06,U0011,The Vanishing Hour,Mystery,19
+T01426,2025-03-15,U0106,Life in the Margins,Biography,46
+T01238,2025-12-14,U0102,Case of the Broken Compass,Mystery,18
+T01250,2025-09-18,U0059,Rising: A Memoir,Biography,14
+T01409,2025-11-24,U0053,Midnight in Avalon,Fiction,9
+T01039,2025-04-22,U0064,Echoes of Andromeda,Science Fiction,7
+T00751,2025-03-25,U0045,Life in the Margins,Biography,10
+T00511,2025-06-19,U0070,Atomic Focus,Self-Help,7
+T01348,2025-11-10,U0082,Habits That Stick,Self-Help,5
+T01334,2025-02-27,U0025,Case of the Broken Compass,Mystery,3
+T00453,2025-02-05,U0008,The Cartographer's Daughter,Fiction,13
+T01342,2025-02-07,U0029,The Dragon's Ledger,Fantasy,1
+T00300,2025-07-12,U0072,Midnight in Avalon,Fiction,18
+T00746,2025-10-19,U0068,Habits That Stick,Self-Help,36
+T00998,2025-05-19,U0093,Empires of Sand,History,10
+T00371,2025-11-22,U0026,The Cartographer's Daughter,Fiction,11
+T01062,2025-04-05,U0094,An Ordinary Genius,Biography,14
+T01395,2025-12-19,U0044,A Century of Silence,History,2
+T01347,2025-06-01,U0114,Detective Rao's Final Case,Mystery,12
+T00646,2025-10-07,U0094,Habits That Stick,Self-Help,12
+T01352,2025-10-30,U0115,Life in the Margins,Biography,22
+T00108,2025-06-22,U0050,Crown of Thorned Vines,Fantasy,14
+T01337,2025-08-21,U0079,Beyond the Event Horizon,Science Fiction,53
+T01475,2025-07-20,U0008,Echoes of Andromeda,Science Fiction,13
+T01020,2025-03-09,U0017,The Sorcerer's Apprentice,Fantasy,12
+T00844,2025-05-08,U0098,Revolutions of the Mind,History,23
+T01065,2025-03-20,U0071,The Last Rune Keeper,Fantasy,8
+T01406,2025-08-06,U0115,Empires of Sand,History,2
+T00933,2025-10-21,U0006,Rising: A Memoir,Biography,18
+T00625,2025-10-02,U0020,A Century of Silence,History,18
+T01453,2025-02-05,U0110,The Sorcerer's Apprentice,Fantasy,21
+T00801,2025-09-04,U0089,Revolutions of the Mind,History,20
+T01461,2025-11-05,U0086,Detective Rao's Final Case,Mystery,1
+T01218,2025-08-27,U0119,The Cartographer's Daughter,Fiction,21
+T00774,2025-08-30,U0010,A Century of Silence,History,6
+T01472,2025-12-28,U0114,Habits That Stick,Self-Help,7
+T01118,2025-02-25,U0047,Revolutions of the Mind,History,57
+T01385,2025-03-27,U0059,Detective Rao's Final Case,Mystery,10
+T00449,2025-09-19,U0116,Crown of Thorned Vines,Fantasy,3
+T00052,2025-10-03,U0010,The Merchant Kingdoms,History,10
+T00724,2025-05-01,U0113,Crown of Thorned Vines,Fantasy,9
+T01346,2025-02-26,U0018,A Thousand Quiet Rooms,Fiction,8
+T00686,2025-10-05,U0064,Empires of Sand,History,8
+T00619,2025-08-04,U0073,The Forgotten Treaty,History,7
+T00528,2025-09-11,U0081,Quantum Drift,Science Fiction,12
+T00895,2025-01-22,U0016,Life in the Margins,Biography,49
+T00707,2025-01-18,U0103,Crown of Thorned Vines,Fantasy,5
+T00874,2025-11-29,U0106,The Merchant Kingdoms,History,51
+T00155,2025-08-21,U0111,Case of the Broken Compass,Mystery,13
+T00918,2025-12-04,U0073,The Last Colony Ship,Science Fiction,11
+T01437,2025-04-11,U0006,The Art of Deep Rest,Self-Help,13
+T00987,2025-01-22,U0070,The Art of Deep Rest,Self-Help,8
+T01493,2025-10-04,U0085,Case of the Broken Compass,Mystery,8
+T00789,2025-07-26,U0117,The Last Colony Ship,Science Fiction,37
+T01420,2025-08-25,U0041,A Thousand Quiet Rooms,Fiction,14
+T01093,2025-10-23,U0104,The Silent Orchard,Fiction,16
+T00364,2025-06-08,U0009,The Forgotten Treaty,History,10
+T00804,2025-06-01,U0059,Rising: A Memoir,Biography,1
+T01400,2025-12-10,U0087,The Forgotten Treaty,History,17
+T01223,2025-02-27,U0061,The Silent Orchard,Fiction,7
+T00499,2025-05-10,U0068,The Last Colony Ship,Science Fiction,13
+T01094,2025-06-21,U0118,Habits That Stick,Self-Help,14
+T01307,2025-07-03,U0089,Midnight in Avalon,Fiction,17
+T00124,2025-02-05,U0048,The Sorcerer's Apprentice,Fantasy,5
+T00233,2025-10-17,U0101,The Merchant Kingdoms,,13
+T00633,2025-05-20,U0055,Detective Rao's Final Case,Mystery,20
+T00117,2025-08-27,U0028,Midnight in Avalon,Fiction,18
+T00441,2025-03-02,U0089,Habits That Stick,Self-Help,6
+T01410,2025-08-25,U0072,The Sorcerer's Apprentice,Fantasy,12
+T00066,2025-03-21,U0080,Kingdom of Ash and Ember,Fantasy,1
+T00827,2025-07-31,U0052,The Silent Orchard,Fiction,47
+T01093,2025-10-23,U0104,The Silent Orchard,Fiction,16
+T00516,2025-08-10,U0049,Detective Rao's Final Case,Mystery,6
+T00916,2025-12-06,U0002,The Dragon's Ledger,Fantasy,11
+T01305,2025-05-29,U0098,Empires of Sand,History,7
+T00848,2025-05-29,U0092,The Last Colony Ship,Science Fiction,10
+T00179,2025-03-16,U0071,Quantum Drift,Science Fiction,1
+T01399,2025-01-12,U0026,Habits That Stick,Self-Help,10
+T00694,2025-03-31,U0041,Crown of Thorned Vines,Fantasy,15
+T00366,2025-02-07,U0083,A Century of Silence,History,9
+T00268,2025-10-31,U0087,Case of the Broken Compass,Mystery,11
+T00903,2025-11-14,U0037,Quantum Drift,Science Fiction,14
+T01133,2025-03-16,U0117,The Sorcerer's Apprentice,Fantasy,8
+T00019,2025-02-24,U0065,The Art of Deep Rest,Self-Help,9
+T00049,2025-06-10,U0092,The Last Colony Ship,Science Fiction,10
+T00571,2025-09-08,U0057,Rewire Your Mornings,Self-Help,2
+T00215,2025-06-01,U0104,Crown of Thorned Vines,Fantasy,23
+T01398,2025-11-25,U0078,Detective Rao's Final Case,Mystery,1
+T00311,2025-08-29,U0104,Quantum Drift,Science Fiction,15
+T00506,2025-10-18,U0089,Revolutions of the Mind,History,9
+T01155,2025-07-21,U0018,Atomic Focus,Self-Help,8
+T00426,2025-10-01,U0030,Rising: A Memoir,Biography,15
+T00813,2025-10-19,U0103,The Long Road Home,,14
+T00104,2025-01-11,U0090,Habits That Stick,Self-Help,12
+T00504,2025-08-11,U0109,Midnight in Avalon,Fiction,15
+T01103,2025-09-07,U0026,Crown of Thorned Vines,Fantasy,2
+T01118,2025-02-25,U0047,Revolutions of the Mind,History,57
+T00205,2025-12-25,U0038,Detective Rao's Final Case,Mystery,15
+T00178,2025-12-28,U0066,Rewire Your Mornings,Self-Help,20
+T00133,2025-04-08,U0067,Life in the Margins,Biography,4
+T00495,2025-09-05,U0079,Rising: A Memoir,Biography,17
+T01064,2025-04-08,U0050,An Ordinary Genius,Biography,3
+T00089,2025-03-17,U0026,Quantum Drift,Science Fiction,37
+T00768,2025-12-10,U0061,Rising: A Memoir,Biography,3
+T00708,2025-07-12,U0022,The Cartographer's Daughter,Fiction,25
+T00290,2025-10-20,U0104,Crown of Thorned Vines,Fantasy,1
+T00213,2025-10-04,U0017,The Last Colony Ship,Science Fiction,21
+T00637,2025-01-07,U0110,The Silent Orchard,Fiction,18
+T00166,2025-09-09,U0105,The Sorcerer's Apprentice,Fantasy,32
+T01048,2025-06-02,U0082,Beyond the Event Horizon,Science Fiction,21
+T00995,2025-11-10,U0061,Quantum Drift,Science Fiction,14
+T01055,2025-11-27,U0072,The Locked Library,Mystery,16
+T00484,,U0098,,Self-Help,14
+T00816,2025-05-14,U0009,The Sorcerer's Apprentice,Fantasy,12
+T00369,2025-03-26,U0039,An Ordinary Genius,Biography,3
+T01192,2025-06-03,U0067,A Thousand Quiet Rooms,Fiction,1
+T00669,2025-06-19,U0109,Midnight in Avalon,Fiction,13
+T00690,2025-12-27,U0076,The Silent Orchard,Fiction,7
+T01416,2025-05-22,U0098,The Silent Orchard,Fiction,19
+T00854,2025-05-17,U0026,Rising: A Memoir,Biography,12
+T01206,2025-08-28,U0043,The Forgotten Treaty,History,20
+T01233,2025-11-02,U0105,Midnight in Avalon,Fiction,
+T00800,2025-01-21,U0021,Kingdom of Ash and Ember,Fantasy,11
+T00601,2025-12-25,U0093,Rising: A Memoir,Biography,9
+T01195,2025-11-17,U0049,Detective Rao's Final Case,Mystery,21
+T00960,2025-01-03,U0082,The Dragon's Ledger,Fantasy,15
+T01321,2025-10-07,U0074,The Merchant Kingdoms,History,17
+T00450,2025-09-20,U0017,A Thousand Quiet Rooms,Fiction,4
+T00476,2025-01-27,U0025,The Art of Deep Rest,Self-Help,9
+T00898,2025-04-24,U0024,Echoes of Andromeda,Science Fiction,5
+T00705,2025-06-29,U0049,Crown of Thorned Vines,Fantasy,17
+T00962,2025-01-20,U0078,The Dragon's Ledger,Fantasy,17
+T00394,2025-07-21,U0013,,Fiction,19
+T01386,2025-05-27,U0069,Echoes of Andromeda,Science Fiction,16
+T00331,2025-07-18,U0082,Crown of Thorned Vines,Fantasy,15
+T01207,2025-10-23,U0003,The Art of Deep Rest,Self-Help,18
+T01280,2025-12-12,U0060,Life in the Margins,Biography,7
+T00919,2025-09-05,U0094,Echoes of Andromeda,Science Fiction,21
+T00711,2025-01-28,U0021,Revolutions of the Mind,History,13
+T01278,2025-08-10,U0109,Detective Rao's Final Case,Mystery,16
+T01312,2025-07-27,U0006,Habits That Stick,Self-Help,15
+T00970,2025-10-14,U0037,Midnight in Avalon,Fiction,9
+T00855,2025-12-16,U0037,Echoes of Andromeda,Science Fiction,16
+T00549,2025-03-01,U0011,The Sorcerer's Apprentice,Fantasy,11
+T00131,,U0042,The Last Rune Keeper,Fantasy,7
+T01296,2025-02-22,U0034,The Sorcerer's Apprentice,Fantasy,32
+T01079,2025-06-22,U0065,Life in the Margins,Biography,4
+T00039,2025-05-02,U0012,The Silent Orchard,Fiction,5
+T00125,2025-08-10,U0014,Empires of Sand,History,21
+T00475,2025-02-10,U0083,The Last Colony Ship,Science Fiction,13
+T01000,2025-04-01,U0002,Crown of Thorned Vines,Fantasy,2
+T01148,2025-08-20,U0014,Whispers of the Tide,Fiction,4
+T00996,2025-07-10,U0097,The Sorcerer's Apprentice,Fantasy,17
+T00819,2025-02-18,U0080,Atomic Focus,Self-Help,10
+T00999,2025-07-15,U0110,Life in the Margins,Biography,15
+T00076,2025-06-10,U0094,The Sorcerer's Apprentice,Fantasy,14
+T01165,2025-09-13,U0064,The Silent Orchard,Fiction,24
+T01016,2025-02-22,U0051,The Last Colony Ship,Science Fiction,18
+T00852,2025-10-01,U0108,The Art of Deep Rest,Self-Help,6
+T00885,2025-05-09,U0102,A Thousand Quiet Rooms,Fiction,8
+T00211,2025-06-08,U0006,Rising: A Memoir,Biography,14
+T00296,2025-12-14,U0072,Detective Rao's Final Case,Mystery,8
+T00684,2025-01-15,U0076,Detective Rao's Final Case,Mystery,20
+T00105,2025-06-02,U0046,The Silent Orchard,Fiction,6
+T00803,2025-09-19,U0012,Echoes of Andromeda,Science Fiction,9
+T00604,2025-08-05,U0111,Midnight in Avalon,Fiction,12
+T00413,2025-04-26,U0039,Case of the Broken Compass,Mystery,13
+T00497,2025-01-09,U0037,An Ordinary Genius,Biography,13
+T00921,2025-07-04,U0067,Rising: A Memoir,Biography,22
+T00041,2025-08-21,U0119,,Fantasy,12
+T00966,2025-09-19,U0077,The Silent Orchard,Fiction,12
+T01273,2025-03-01,U0105,The Vanishing Hour,Mystery,5
+T00912,2025-07-27,U0075,Empires of Sand,History,5
+T00313,2025-09-28,U0065,Habits That Stick,Self-Help,14
+T00341,2025-08-14,U0096,Revolutions of the Mind,History,16
+T01110,2025-02-13,U0097,The Dragon's Ledger,Fantasy,25
+T00045,2025-09-18,U0008,An Ordinary Genius,Biography,13
+T00865,2025-09-21,U0023,,Science Fiction,20
+T00971,2025-05-22,U0105,Detective Rao's Final Case,Mystery,18
+T01269,2025-06-25,U0005,An Ordinary Genius,Biography,19
+T01172,2025-12-25,U0089,Notes from a Quiet Life,Biography,12
+T01499,2025-03-19,U0031,Crown of Thorned Vines,Fantasy,13
+T00177,2025-03-20,U0083,A Century of Silence,History,9
+T01114,2025-03-14,U0080,Life in the Margins,Biography,9
+T01298,2025-01-01,U0082,Echoes of Andromeda,Science Fiction,9
+T00496,2025-10-10,U0069,The Silent Orchard,Fiction,21
+T00298,2025-03-14,U0085,Midnight in Avalon,Fiction,9
+T00986,2025-09-10,U0085,Atomic Focus,Self-Help,20
+T00429,2025-05-29,U0096,The Last Colony Ship,Science Fiction,19
+T00055,2025-12-08,U0002,Rising: A Memoir,Biography,1
+T00386,2025-09-13,U0021,The Last Colony Ship,Science Fiction,1
+T00033,2025-02-19,U0013,Kingdom of Ash and Ember,Fantasy,18
+T00230,2025-11-27,U0116,The Dragon's Ledger,Fantasy,8
+T01388,2025-10-22,U0041,Midnight in Avalon,Fiction,11
+T01397,2025-08-17,U0029,Notes from a Quiet Life,Biography,12
+T00277,2025-02-15,U0047,Atomic Focus,Self-Help,17
+T00257,2025-07-08,U0072,Detective Rao's Final Case,Mystery,11
+T00180,2025-03-11,U0066,A Century of Silence,History,10
+T01333,2025-09-17,U0070,The Forgotten Treaty,History,13
+T01111,2025-05-28,U0112,A Century of Silence,History,52
+T01306,2025-07-16,U0006,The Last Colony Ship,Science Fiction,10
+T00621,2025-01-21,U0028,The Silent Orchard,Fiction,2
+T00997,2025-04-03,U0058,Kingdom of Ash and Ember,Fantasy,21
+T00830,2025-01-28,U0106,Detective Rao's Final Case,Mystery,15
+T01471,2025-10-13,U0023,The Silent Orchard,Fiction,6
+T00978,2025-12-13,U0029,Habits That Stick,Self-Help,17
+T00352,2025-07-09,U0058,Echoes of Andromeda,Science Fiction,11
+T00028,2025-06-23,U0009,Quantum Drift,Science Fiction,47
+T00239,2025-09-27,U0054,Echoes of Andromeda,Science Fiction,18
+T01332,2025-02-18,U0068,Midnight in Avalon,Fiction,12
+T01393,2025-12-28,U0083,An Ordinary Genius,Biography,10
+T00037,2025-05-08,U0060,The Last Colony Ship,Science Fiction,11
+T01095,2025-04-27,U0112,The Forgotten Treaty,History,6
+T00889,2025-09-15,U0046,The Forgotten Treaty,History,10
+T01239,2025-02-15,U0045,The Merchant Kingdoms,History,9
+T00532,2025-04-13,U0089,The Long Road Home,Biography,14
+T00161,2025-01-21,U0077,The Sorcerer's Apprentice,Fantasy,19
+T00380,2025-04-15,U0060,The Sorcerer's Apprentice,Fantasy,19
+T01222,2025-06-19,U0086,The Discipline of Small Wins,Self-Help,16
+T00384,2025-11-12,U0050,Case of the Broken Compass,Mystery,24
+T01173,2025-07-04,U0075,Crown of Thorned Vines,Fantasy,8
+T00543,2025-05-08,U0014,Revolutions of the Mind,History,6
+T00922,2025-06-15,U0084,Whispers of the Tide,Fiction,5
+T00932,2025-10-31,U0074,Whispers of the Tide,Fiction,10
+T01452,2025-08-16,U0088,The Art of Deep Rest,Self-Help,1
+T01496,2025-08-28,U0096,A Century of Silence,History,10
+T01251,2025-11-06,U0055,Quantum Drift,Science Fiction,45
+T00171,2025-10-05,U0085,The Merchant Kingdoms,History,16
+T01274,2025-09-30,U0097,Crown of Thorned Vines,Fantasy,13
+T00447,2025-10-21,U0026,Revolutions of the Mind,History,19
+T00374,2025-11-06,U0116,Rising: A Memoir,Biography,13
+T01363,2025-11-10,U0090,The Art of Deep Rest,Self-Help,14
+T01413,2025-01-02,U0004,Crown of Thorned Vines,Fantasy,19
+T00234,2025-04-17,U0071,Empires of Sand,History,13
+T00034,2025-08-28,U0053,Detective Rao's Final Case,Mystery,20
+T01323,2025-08-01,U0019,Midnight in Avalon,Fiction,9
+T00168,2025-05-28,U0064,Kingdom of Ash and Ember,Fantasy,14
+T00522,2025-02-17,U0071,Midnight in Avalon,Fiction,11
+T00728,2025-08-11,U0088,The Sorcerer's Apprentice,Fantasy,9
+T01399,2025-01-12,U0026,Habits That Stick,Self-Help,10
+T00952,2025-11-30,U0055,Midnight in Avalon,Fiction,11
+T01247,2025-09-07,U0114,Echoes of Andromeda,Science Fiction,12
+T01483,2025-09-21,U0073,The Forgotten Treaty,History,11
+T00871,2025-03-23,U0065,The Cartographer's Daughter,Fiction,15
+T01046,2025-07-19,U0061,The Merchant Kingdoms,History,9
+T00221,2025-11-14,U0004,Quantum Drift,Science Fiction,10
+T01174,2025-06-15,U0039,Midnight in Avalon,Fiction,10
+T00093,2025-04-01,U0029,Habits That Stick,Self-Help,2
+T00157,2025-11-28,U0029,Midnight in Avalon,Fiction,8
+T01129,2025-08-02,U0030,Rising: A Memoir,Biography,21
+T00098,2025-08-19,U0061,The Art of Deep Rest,Self-Help,12
+T00606,2025-03-12,U0039,The Dragon's Ledger,Fantasy,9
+T00876,2025-07-15,U0042,Atomic Focus,Self-Help,1
+T01072,2025-08-01,U0114,The Art of Deep Rest,Self-Help,7
+T00510,2025-03-25,U0039,A Century of Silence,History,1
+T01160,2025-07-13,U0021,Notes from a Quiet Life,Biography,1
+T00115,2025-01-21,U0084,The Cartographer's Daughter,Fiction,10
+T01289,2025-02-08,U0120,Crown of Thorned Vines,Fantasy,7
+T00616,2025-05-03,U0102,Habits That Stick,Self-Help,17
+T00979,2025-06-30,U0053,Habits That Stick,Self-Help,23
+T00163,2025-10-22,U0108,A Century of Silence,History,22
+T00896,2025-02-13,U0071,The Dragon's Ledger,Fantasy,9
+T01490,2025-10-24,U0109,Midnight in Avalon,Fiction,21
+T00596,2025-03-05,U0003,Empires of Sand,History,14
+T00172,2025-07-05,U0067,A Thousand Quiet Rooms,Fiction,
+T01075,2025-07-17,U0069,The Art of Deep Rest,Self-Help,7
+T01080,2025-06-11,U0116,A Century of Silence,History,10
+T01015,2025-12-25,U0096,Beyond the Event Horizon,Science Fiction,15
+T00318,2025-01-14,U0120,The Forgotten Treaty,History,6
+T01390,2025-08-18,U0048,Detective Rao's Final Case,Mystery,14
+T00950,2025-09-24,U0016,Life in the Margins,Biography,50
+T00700,2025-05-02,U0010,Detective Rao's Final Case,Mystery,16
+T01052,2025-02-15,U0048,The Long Road Home,Biography,2
+T00083,2025-12-13,U0049,Rising: A Memoir,Biography,15
+T00191,2025-06-23,U0034,Crown of Thorned Vines,Fantasy,9
+T00873,2025-11-13,U0028,Detective Rao's Final Case,Mystery,17
+T00890,2025-11-07,U0039,Habits That Stick,Self-Help,12
+T00382,2025-09-21,U0048,Echoes of Andromeda,Science Fiction,9
+T00755,2025-12-16,U0099,Habits That Stick,Self-Help,59
+T01480,,U0032,A Thousand Quiet Rooms,Fiction,11
+T01498,2025-09-25,U0008,The Art of Deep Rest,Self-Help,4
+T01353,2025-01-21,U0006,The Sorcerer's Apprentice,Fantasy,5
+T01259,2025-10-01,U0044,A Thousand Quiet Rooms,Fiction,4
+T00550,2025-04-16,U0101,Detective Rao's Final Case,Mystery,6
+T00976,2025-08-23,U0100,The Art of Deep Rest,Self-Help,8
+T00795,2025-04-16,U0020,Crown of Thorned Vines,Fantasy,8
+T00913,2025-10-10,U0005,Neon Horizon,Science Fiction,17
+T01003,2025-04-21,U0008,Atomic Focus,Self-Help,1
+T01455,2025-09-25,U0057,Midnight in Avalon,Fiction,11
+T01050,2025-05-22,U0022,The Locked Library,Mystery,8
+T01427,2025-09-06,U0100,Case of the Broken Compass,Mystery,15
+T00197,2025-05-31,U0008,The Locked Library,Mystery,13
+T00736,2025-01-20,U0061,Life in the Margins,Biography,20
+T00269,2025-01-29,U0077,The Dragon's Ledger,Fantasy,39
+T00636,2025-10-21,U0014,Beyond the Event Horizon,Science Fiction,19
+T00886,2025-05-13,U0030,Life in the Margins,Biography,6
+T01006,2025-12-14,U0045,Kingdom of Ash and Ember,Fantasy,14
+T00612,2025-05-22,U0032,Habits That Stick,Self-Help,17
+T00247,2025-12-26,U0013,The Long Road Home,Biography,5
+T00316,2025-03-24,U0011,Echoes of Andromeda,Science Fiction,4
+T00584,2025-02-18,U0105,Revolutions of the Mind,History,9
+T00825,2025-08-16,U0059,Quantum Drift,Science Fiction,1
+T00219,2025-07-08,U0059,An Ordinary Genius,Biography,11
+T00334,2025-06-30,U0006,Detective Rao's Final Case,Mystery,13
+T00427,2025-03-31,U0005,The Forgotten Treaty,History,19
+T01421,2025-11-22,U0054,Case of the Broken Compass,Mystery,14
+T01402,2025-07-04,U0086,A Thousand Quiet Rooms,Fiction,10
+T01213,2025-08-16,U0070,Revolutions of the Mind,History,16
+T00492,2025-12-09,U0105,The Cartographer's Daughter,Fiction,30
+T00365,2025-10-22,U0053,Kingdom of Ash and Ember,Fantasy,5
+T00523,2025-07-17,U0111,Habits That Stick,Self-Help,43
+T00817,2025-12-14,U0112,The Silent Orchard,Fiction,11
+T00190,2025-03-15,U0093,Crown of Thorned Vines,Fantasy,10
+T00782,2025-01-20,U0001,Crown of Thorned Vines,Fantasy,14
+T01121,2025-09-14,U0026,Midnight in Avalon,Fiction,12
+T00145,2025-04-05,U0044,Crown of Thorned Vines,Fantasy,12
+T00114,2025-10-04,U0003,Midnight in Avalon,Fiction,16
+T00662,2025-07-22,U0046,Rewire Your Mornings,Self-Help,9
+T01304,2025-02-16,U0083,The Merchant Kingdoms,History,15
+T00100,2025-05-27,U0010,Case of the Broken Compass,Mystery,5
+T00433,2025-05-12,U0083,The Art of Deep Rest,Self-Help,17
+T00265,2025-11-13,U0021,A Thousand Quiet Rooms,Fiction,32
+T01166,2025-12-04,U0076,Quantum Drift,Science Fiction,12
+T00666,2025-12-18,U0048,Empires of Sand,History,7
+T00928,2025-05-24,U0083,The Cartographer's Daughter,Fiction,14
+T00090,2025-02-07,U0079,The Merchant Kingdoms,History,17
+T00675,2025-09-27,U0103,Rising: A Memoir,Biography,19
+T00012,2025-10-26,U0055,The Art of Deep Rest,Self-Help,4
+T01443,2025-10-24,U0105,The Cartographer's Daughter,Fiction,7
+T00552,2025-02-28,U0091,A Thousand Quiet Rooms,Fiction,40
+T01394,2025-10-21,U0097,Revolutions of the Mind,History,14
+T00983,2025-04-08,U0117,Atomic Focus,Self-Help,15
+T00943,2025-12-04,U0062,Midnight in Avalon,Fiction,3
+T00167,2025-06-20,U0053,Crown of Thorned Vines,Fantasy,14
+T00060,2025-01-23,U0036,The Sorcerer's Apprentice,Fantasy,
+T00315,2025-10-11,U0048,Crown of Thorned Vines,Fantasy,10
+T00973,2025-02-07,U0072,An Ordinary Genius,Biography,10
+T00218,2025-10-13,U0103,A Century of Silence,History,12
+T01210,2025-01-08,U0015,Echoes of Andromeda,Science Fiction,9
+T00766,2025-01-19,U0050,The Sorcerer's Apprentice,Fantasy,11
+T00808,2025-11-15,U0057,Detective Rao's Final Case,Mystery,8
+T00901,2025-02-04,U0086,The Cartographer's Daughter,Fiction,14
+T00583,2025-05-29,U0038,The Merchant Kingdoms,History,18
+T00054,2025-10-06,U0107,Echoes of Andromeda,Science Fiction,1
+T00674,2025-03-12,U0050,Midnight in Avalon,Fiction,7
+T00194,2025-05-01,U0009,The Silent Orchard,Fiction,30
+T01021,2025-06-16,U0118,Detective Rao's Final Case,Mystery,13
+T00505,2025-02-18,U0110,Detective Rao's Final Case,Mystery,15
+T00158,2025-02-06,U0019,The Vanishing Hour,Mystery,14
+T00853,2025-01-07,U0104,The Forgotten Treaty,History,15
+T01263,2025-03-28,U0075,Rising: A Memoir,Biography,9
+T01423,2025-02-18,U0024,Habits That Stick,Self-Help,9
+T01078,2025-03-27,U0014,The Sorcerer's Apprentice,Fantasy,3
+T00009,2025-04-19,U0009,Kingdom of Ash and Ember,Fantasy,3
+T01196,2025-07-19,U0078,The Last Colony Ship,Science Fiction,19
+T01355,2025-08-20,U0013,Atomic Focus,Self-Help,18
+T01200,2025-04-14,U0005,The Dragon's Ledger,Fantasy,10
+T01154,2025-10-27,U0024,An Ordinary Genius,Biography,9
+T00559,2025-10-02,U0014,A Thousand Quiet Rooms,,8
+T01042,2025-10-06,U0010,Habits That Stick,Self-Help,16
+T00345,2025-08-17,U0040,Rising: A Memoir,Biography,14
+T01375,2025-02-11,U0012,The Forgotten Treaty,History,18
+T00582,2025-10-03,U0077,An Ordinary Genius,Biography,4
+T00418,2025-08-15,U0045,Rewire Your Mornings,Self-Help,15
+T00192,2025-06-18,U0011,Kingdom of Ash and Ember,Fantasy,15
+T00716,2025-03-29,U0027,Midnight in Avalon,Fiction,18
+T00254,2025-08-05,U0097,The Forgotten Treaty,History,6
+T00304,2025-04-26,U0025,Habits That Stick,Self-Help,10
+T00231,2025-08-21,U0109,Midnight in Avalon,Fiction,14
+T01322,2025-03-30,U0076,The Art of Deep Rest,Self-Help,
+T00938,2025-03-27,U0034,Rising: A Memoir,Biography,8
+T00994,2025-04-06,U0034,Notes from a Quiet Life,Biography,9
+T01149,2025-05-06,U0113,The Forgotten Treaty,History,4
+T00731,2025-09-24,U0036,Detective Rao's Final Case,Mystery,19
+T00905,2025-07-06,U0073,Echoes of Andromeda,Science Fiction,15
+T00084,2025-01-01,U0107,Kingdom of Ash and Ember,Fantasy,18
+T01014,2025-04-05,U0022,Crown of Thorned Vines,Fantasy,15
+T00238,2025-03-31,U0003,The Long Road Home,Biography,20
+T00894,2025-11-28,U0111,A Century of Silence,History,19
+T00957,2025-08-17,U0030,Midnight in Avalon,Fiction,21
+T00335,2025-12-23,U0060,Habits That Stick,Self-Help,8
+T00837,2025-08-01,U0097,Detective Rao's Final Case,Mystery,50
+T00964,2025-03-31,U0100,A Thousand Quiet Rooms,Fiction,8
+T00074,2025-01-15,U0043,Empires of Sand,History,11
+T00376,2025-11-30,U0034,Habits That Stick,Self-Help,4
+T00471,2025-08-02,U0090,An Ordinary Genius,Biography,10
+T00868,2025-06-15,U0119,Whispers of the Tide,Fiction,13
+T00305,2025-02-21,U0038,Echoes of Andromeda,Science Fiction,2
+T00387,2025-07-21,U0012,The Last Rune Keeper,Fantasy,14
+T00109,2025-03-07,U0118,Empires of Sand,History,2
+T00902,2025-03-07,U0046,A Century of Silence,History,19
+T01139,2025-04-29,U0030,Quantum Drift,Science Fiction,6
+T00310,2025-08-18,U0101,The Art of Deep Rest,Self-Help,10
+T01485,2025-09-08,U0013,The Locked Library,Mystery,9
+T00647,2025-10-05,U0030,Kingdom of Ash and Ember,Fantasy,12
+T00338,2025-09-21,U0040,The Locked Library,Mystery,14
+T00893,2025-12-13,U0039,Rising: A Memoir,Biography,7
+T01311,2025-06-23,U0005,The Merchant Kingdoms,History,6
+T01059,2025-06-15,U0045,The Last Colony Ship,Science Fiction,10
+T00541,2025-10-06,U0054,The Forgotten Treaty,History,60
+T01256,2025-09-25,U0011,Crown of Thorned Vines,Fantasy,10
+T00540,2025-09-03,U0077,The Cartographer's Daughter,Fiction,1
+T01378,2025-03-09,U0070,A Century of Silence,History,8
+T00881,2025-12-10,U0027,Rising: A Memoir,Biography,14
+T00739,2025-07-10,U0115,Revolutions of the Mind,History,56
+T00576,2025-02-22,U0055,Life in the Margins,Biography,14
+T01023,2025-04-01,U0070,A Century of Silence,History,11
+T00262,2025-02-16,U0004,Rising: A Memoir,Biography,13
+T00091,2025-09-11,U0050,The Art of Deep Rest,Self-Help,6
+T00642,2025-07-25,U0006,Empires of Sand,History,
+T00240,2025-02-25,U0076,Detective Rao's Final Case,Mystery,14
+T01325,2025-11-10,U0081,Habits That Stick,Self-Help,18
+T00291,2025-09-14,U0061,The Locked Library,Mystery,14
+T00887,2025-12-11,U0050,The Locked Library,Mystery,13
+T01087,2025-10-12,U0066,Revolutions of the Mind,History,8
+T01491,2025-10-18,U0009,Detective Rao's Final Case,Mystery,7
+T00184,2025-10-06,U0098,Detective Rao's Final Case,Mystery,23
+T01445,2025-02-20,U0093,The Silent Orchard,Fiction,20
+T00959,2025-12-28,U0088,Notes from a Quiet Life,Biography,1
+T00695,2025-11-11,U0114,Life in the Margins,Biography,13
+T01010,2025-11-20,U0054,A Century of Silence,History,1
+T01032,2025-02-10,U0034,The Dragon's Ledger,Fantasy,12
+T00348,2025-02-08,U0008,Habits That Stick,Self-Help,6
+T01436,2025-01-10,U0010,Habits That Stick,Self-Help,16
+T00368,2025-08-10,U0017,The Last Colony Ship,Science Fiction,19
+T01189,2025-12-11,U0119,Empires of Sand,History,10
+T00085,2025-10-24,U0101,The Last Colony Ship,Science Fiction,9
+T01146,2025-06-10,U0093,Empires of Sand,History,3
+T00271,2025-01-04,U0016,Case of the Broken Compass,Mystery,9
+T00760,2025-07-11,U0085,The Silent Orchard,Fiction,6
+T00809,2025-06-25,U0048,The Art of Deep Rest,Self-Help,1
+T00620,2025-02-07,U0099,A Century of Silence,History,32
+T00781,2025-11-11,U0017,Habits That Stick,Self-Help,6
+T01270,2025-09-11,U0108,Empires of Sand,History,10
+T01034,2025-09-30,U0096,Case of the Broken Compass,Mystery,1
+T00520,2025-05-19,U0098,The Sorcerer's Apprentice,Fantasy,4
+T00011,2025-05-16,U0019,Rising: A Memoir,Biography,11
+T00094,2025-01-26,U0060,Atomic Focus,Self-Help,14
+T01226,2025-06-04,U0102,Rising: A Memoir,Biography,6
+T01242,2025-02-26,U0046,Empires of Sand,History,14
+T00726,2025-03-17,U0080,Atomic Focus,Self-Help,5
+T01484,2025-07-13,U0041,The Long Road Home,Biography,21
+T00481,2025-04-15,U0091,Atomic Focus,Self-Help,12
+T01482,2025-01-20,U0042,The Silent Orchard,Fiction,17
+T01465,2025-12-14,U0078,The Last Colony Ship,Science Fiction,12
+T00121,2025-12-20,U0076,The Last Colony Ship,Science Fiction,22
+T01141,2025-07-18,U0024,Rising: A Memoir,Biography,14
+T00196,2025-08-16,U0013,The Discipline of Small Wins,Self-Help,11
+T00150,2025-08-15,U0058,An Ordinary Genius,Biography,6
+T00525,2025-03-28,U0049,The Last Colony Ship,Science Fiction,10
+T01224,2025-05-25,U0022,Crown of Thorned Vines,Fantasy,9
+T00867,2025-12-30,U0060,The Silent Orchard,Fiction,21
+T00786,2025-06-02,U0006,The Cartographer's Daughter,Fiction,11
+T00435,2025-07-27,U0115,The Forgotten Treaty,History,9
+T00815,2025-03-08,U0115,The Art of Deep Rest,Self-Help,1
+T00663,2025-07-27,U0004,The Merchant Kingdoms,History,7
+T00273,2025-02-06,U0046,Rising: A Memoir,Biography,11
+T00961,2025-02-02,U0012,The Long Road Home,Biography,5
+T00022,2025-06-07,U0047,Midnight in Avalon,Fiction,7
+T00176,2025-02-17,U0053,The Silent Orchard,Fiction,13
+T00939,2025-11-02,U0059,Detective Rao's Final Case,Mystery,12
+T01418,2025-09-01,U0088,The Vanishing Hour,Mystery,14
+T01194,2025-07-01,U0103,Atomic Focus,Self-Help,18
+T00758,2025-06-28,U0110,Revolutions of the Mind,History,7
+T00509,2025-12-31,U0097,The Long Road Home,Biography,7
+T00924,2025-07-13,U0084,The Last Colony Ship,Science Fiction,19
+T01407,2025-04-17,U0019,The Long Road Home,Biography,17
+T01497,2025-11-11,U0104,Rising: A Memoir,Biography,23
+T01411,2025-05-29,U0049,The Last Colony Ship,Science Fiction,8
+T00595,2025-12-16,U0115,Habits That Stick,Self-Help,20
+T00059,2025-01-27,U0116,Crown of Thorned Vines,Fantasy,8
+T00299,2025-12-24,U0084,The Locked Library,Mystery,18
+T00837,2025-08-01,U0097,Detective Rao's Final Case,Mystery,50
+T00370,2025-06-27,U0029,A Century of Silence,History,7
+T00857,2025-12-12,U0079,Crown of Thorned Vines,Fantasy,4
+T00388,2025-10-26,U0028,A Century of Silence,History,18
+T00580,2025-11-20,U0079,The Forgotten Treaty,History,2
+T00442,2025-11-11,U0048,A Century of Silence,History,18
+T01229,2025-06-25,U0101,The Sorcerer's Apprentice,Fantasy,6
+T00424,2025-09-02,U0061,The Forgotten Treaty,History,19
+T00884,2025-06-19,U0059,Echoes of Andromeda,Science Fiction,32
+T01444,2025-04-09,U0092,An Ordinary Genius,Biography,16
+T00783,2025-06-14,U0002,The Art of Deep Rest,Self-Help,10
+T01392,2025-06-13,U0119,A Century of Silence,History,19
+T00590,2025-09-07,U0059,The Forgotten Treaty,History,2
+T00546,2025-10-25,U0072,The Art of Deep Rest,Self-Help,14
+T00391,2025-01-24,U0047,The Art of Deep Rest,Self-Help,5
+T00417,2025-05-29,U0019,Habits That Stick,Self-Help,60
+T01422,2025-05-30,U0038,Detective Rao's Final Case,Mystery,18
+T00243,2025-08-07,U0052,Crown of Thorned Vines,Fantasy,1
+T01013,2025-10-28,U0047,Habits That Stick,Self-Help,19
+T01380,2025-04-29,U0112,A Thousand Quiet Rooms,Fiction,6
+T00930,2025-02-28,U0093,Empires of Sand,History,14
+T00892,2025-07-20,U0018,An Ordinary Genius,Biography,14
+T01077,2025-11-23,U0014,The Sorcerer's Apprentice,Fantasy,7
+T00029,2025-01-04,U0029,Quantum Drift,Science Fiction,8
+T00241,2025-01-23,U0079,Neon Horizon,Science Fiction,19
+T01162,2025-12-31,U0023,The Forgotten Treaty,History,9
+T00349,2025-01-16,U0021,The Art of Deep Rest,Self-Help,16
+T00754,2025-04-16,U0087,Rising: A Memoir,Biography,10
+T01414,2025-11-22,U0082,Case of the Broken Compass,Mystery,4
+T00306,2025-06-22,U0085,An Ordinary Genius,Biography,9
+T00533,2025-12-22,U0095,The Locked Library,Mystery,17
+T01230,2025-12-09,U0085,Quantum Drift,Science Fiction,19
+T00879,2025-06-01,U0006,The Sorcerer's Apprentice,Fantasy,14
+T01266,2025-02-27,U0095,The Vanishing Hour,Mystery,8
+T00822,2025-09-11,U0110,The Forgotten Treaty,History,9
+T00102,2025-02-02,U0028,Echoes of Andromeda,Science Fiction,8
+T00346,2025-08-16,U0089,The Sorcerer's Apprentice,Fantasy,23
+T00537,2025-08-13,U0027,A Century of Silence,History,13
+T01430,2025-02-28,U0090,Rewire Your Mornings,Self-Help,8
+T00948,2025-02-12,U0117,Habits That Stick,Self-Help,14
+T00183,2025-10-03,U0058,The Forgotten Treaty,History,7
+T00469,2025-03-31,U0076,Life in the Margins,Biography,5
+T01284,2025-05-26,U0029,The Sorcerer's Apprentice,Fantasy,20
+T01254,2025-10-25,U0015,The Discipline of Small Wins,Self-Help,10
+T01326,2025-04-02,U0001,Midnight in Avalon,Fiction,22
+T01144,2025-11-12,U0057,A Century of Silence,History,9
+T00048,2025-12-03,U0054,Notes from a Quiet Life,Biography,1
+T00043,2025-10-24,U0008,Neon Horizon,Science Fiction,12
+T00460,2025-07-14,U0069,An Ordinary Genius,Biography,12
+T01169,2025-01-19,U0045,A Thousand Quiet Rooms,Fiction,19
+T00773,2025-03-02,U0060,The Long Road Home,Biography,17
+T00806,2025-03-01,U0055,Atomic Focus,Self-Help,7
+T00373,2025-03-20,U0075,The Long Road Home,Biography,16
+T00753,2025-04-20,U0100,The Forgotten Treaty,History,12
+T00849,2025-12-30,U0017,Revolutions of the Mind,History,18
+T00173,2025-10-09,U0035,A Thousand Quiet Rooms,Fiction,12
+T00407,2025-12-20,U0053,The Sorcerer's Apprentice,Fantasy,10
+T00578,2025-08-13,U0012,The Forgotten Treaty,History,12
+T00671,2025-03-30,U0055,The Dragon's Ledger,Fantasy,16
+T01215,2025-11-02,U0091,The Dragon's Ledger,Fantasy,13
+T01408,2025-06-21,U0068,The Merchant Kingdoms,History,21
+T00356,2025-05-27,U0079,Neon Horizon,Science Fiction,2
+T00534,2025-05-05,U0101,A Century of Silence,History,10
+T00274,2025-06-10,U0010,Crown of Thorned Vines,Fantasy,5
+T00980,2025-07-24,U0012,Quantum Drift,Science Fiction,12
+T00925,2025-02-09,U0107,Rising: A Memoir,Biography,2
+T00655,2025-06-11,U0034,Quantum Drift,Science Fiction,18
+T00841,2025-09-18,U0062,Empires of Sand,History,19
+T01405,2025-08-15,U0103,The Merchant Kingdoms,History,5
+T01217,2025-12-10,U0098,The Last Colony Ship,Science Fiction,16
+T00267,2025-06-26,U0015,The Art of Deep Rest,Self-Help,13
+T01330,2025-11-10,U0064,The Last Colony Ship,Science Fiction,10
+T01058,2025-09-08,U0090,Case of the Broken Compass,Mystery,12
+T00512,2025-12-19,U0102,The Art of Deep Rest,Self-Help,1
+T00324,2025-02-26,U0055,Notes from a Quiet Life,Biography,23
+T00227,2025-09-08,U0013,The Sorcerer's Apprentice,Fantasy,8
+T00169,2025-10-09,U0098,Kingdom of Ash and Ember,Fantasy,32
+T01180,2025-10-22,U0068,The Locked Library,Mystery,10
+T00643,2025-02-14,U0042,Empires of Sand,History,13
+T00626,2025-11-29,U0098,The Long Road Home,Biography,20
+T01287,2025-12-03,U0049,The Long Road Home,Biography,11
+T00410,2025-07-12,U0068,Rising: A Memoir,Biography,18
+T00821,2025-11-10,U0115,Empires of Sand,History,9
+T00007,2025-12-19,U0082,The Merchant Kingdoms,History,7
+T00279,2025-06-20,U0029,The Art of Deep Rest,Self-Help,19
+T01313,2025-10-02,U0087,Crown of Thorned Vines,Fantasy,3
+T00909,2025-11-07,U0083,Midnight in Avalon,Fiction,9
+T01291,2025-02-07,U0100,The Vanishing Hour,Mystery,3
+T00377,2025-11-18,U0114,The Silent Orchard,Fiction,8
+T01464,2025-01-28,U0095,The Silent Orchard,Fiction,10
+T01314,2025-02-06,U0119,Life in the Margins,Biography,34
+T00107,2025-04-23,U0063,Revolutions of the Mind,History,1
+T00057,2025-03-21,U0071,Midnight in Avalon,Fiction,14
+T01424,2025-06-11,U0042,The Last Colony Ship,Science Fiction,9
+T00929,2025-11-05,U0047,The Last Colony Ship,Science Fiction,15
+T00670,2025-07-22,U0056,A Century of Silence,History,11
+T01122,2025-01-12,U0092,Life in the Margins,Biography,59
+T01234,2025-11-27,U0064,The Dragon's Ledger,Fantasy,21
+T00862,2025-08-15,U0111,The Forgotten Treaty,History,19
+T00721,2025-12-08,U0090,Echoes of Andromeda,Science Fiction,6
+T00136,2025-05-05,U0089,Neon Horizon,Science Fiction,6
+T01037,2025-01-12,U0069,A Thousand Quiet Rooms,Fiction,13
+T00535,2025-10-16,U0120,The Dragon's Ledger,Fantasy,22
+T01431,2025-03-09,U0015,Revolutions of the Mind,History,6
+T01494,2025-10-08,U0086,An Ordinary Genius,Biography,14
+T00206,2025-07-22,U0085,The Merchant Kingdoms,History,3
+T00866,2025-10-12,U0036,Whispers of the Tide,Fiction,18
+T01470,2025-07-16,U0016,The Forgotten Treaty,History,15
+T00682,2025-07-01,U0050,The Merchant Kingdoms,History,9
+T00846,2025-06-03,U0066,The Forgotten Treaty,History,18
+T00965,2025-09-23,U0103,Rising: A Memoir,Biography,13
+T01007,2025-05-26,U0023,Rising: A Memoir,Biography,19
+T00165,2025-11-30,U0067,The Last Colony Ship,Science Fiction,8
+T00562,2025-03-30,U0080,Empires of Sand,History,9
+T00070,2025-08-29,U0110,The Forgotten Treaty,History,9
+T00833,2025-05-30,U0082,Detective Rao's Final Case,Mystery,11
+T01320,2025-07-25,U0087,,History,16
+T00650,2025-08-03,U0031,An Ordinary Genius,Biography,30
+T01294,2025-04-02,U0051,The Last Colony Ship,Science Fiction,17
+T00899,2025-04-03,U0015,Beyond the Event Horizon,Science Fiction,10
+T00329,2025-09-26,U0011,Rising: A Memoir,Biography,18
+T00431,2025-09-10,U0068,Rising: A Memoir,Biography,16
+T00610,2025-02-14,U0028,The Sorcerer's Apprentice,Fantasy,7
+T00483,2025-09-20,U0047,Shadows on Elm Street,Mystery,1
+T00185,2025-10-20,U0031,The Merchant Kingdoms,History,7
+T00617,2025-11-23,U0064,Midnight in Avalon,Fiction,1
+T00524,2025-10-14,U0011,The Dragon's Ledger,Fantasy,19
+T00805,2025-03-31,U0105,A Thousand Quiet Rooms,Fiction,15
+T00017,2025-05-17,U0069,Atomic Focus,Self-Help,9
+T00796,2025-09-24,U0085,Rising: A Memoir,Biography,8
+T00907,2025-07-04,U0036,Rising: A Memoir,Biography,10
+T00485,2025-01-24,U0053,The Dragon's Ledger,Fantasy,12
+T01096,2025-01-06,U0119,The Forgotten Treaty,History,10
+T00250,2025-12-07,U0041,The Locked Library,Mystery,17
+T01404,2025-10-15,U0058,Shadows on Elm Street,Mystery,11
+T00744,2025-09-22,U0098,The Art of Deep Rest,Self-Help,N/A
+T01435,2025-04-18,U0017,Quantum Drift,Science Fiction,20
+T01309,2025-07-19,U0063,The Long Road Home,Biography,20
+T00634,2025-11-18,U0074,The Vanishing Hour,Mystery,6
+T00788,2025-09-08,U0116,Echoes of Andromeda,Science Fiction,15
+T01132,2025-09-26,U0091,Shadows on Elm Street,Mystery,1
+T00519,2025-02-16,U0014,The Locked Library,Mystery,39
+T00491,2025-11-25,U0070,Revolutions of the Mind,History,1
+T01376,2025-05-22,U0022,The Cartographer's Daughter,Fiction,25
+T01415,2025-12-19,U0063,The Sorcerer's Apprentice,Fantasy,1
+T00112,2025-04-19,U0042,The Vanishing Hour,Mystery,5
+T01357,2025-11-28,U0031,Detective Rao's Final Case,Mystery,14
+T01433,2025-06-25,U0098,The Long Road Home,Biography,8
+T00072,2025-07-24,U0025,The Silent Orchard,Fiction,7
